@@ -19,7 +19,7 @@ type Message = {
 export function Chatbot() {
   const [isOpen, setIsOpen] = useState(false);
   const [messages, setMessages] = useState<Message[]>([
-    { role: 'bot', content: "Hello! I'm the Weriton Hub AI Advisor. How can I help you find the right building materials today?" }
+    { role: 'bot', content: "Hello! I'm the Weriton Enterprises AI Advisor. How can I help you find the perfect furniture for your space today?" }
   ]);
   const [input, setInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
@@ -69,7 +69,7 @@ export function Chatbot() {
       </SheetTrigger>
       <SheetContent className="flex flex-col w-full sm:max-w-md p-0" side="right">
         <SheetHeader className="p-4 border-b">
-          <SheetTitle className="font-headline">AI Product Advisor</SheetTitle>
+          <SheetTitle className="font-headline">AI Design Advisor</SheetTitle>
         </SheetHeader>
         <ScrollArea className="flex-1">
           <div className="p-4 space-y-6">
@@ -128,7 +128,7 @@ export function Chatbot() {
             <Input
               value={input}
               onChange={(e) => setInput(e.target.value)}
-              placeholder="Tell me about your project..."
+              placeholder="Tell me about your space..."
               disabled={isLoading}
               autoComplete="off"
             />

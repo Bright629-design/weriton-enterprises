@@ -16,7 +16,7 @@ import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { useToast } from "@/hooks/use-toast";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { Mail, Phone, MapPin, HardHat } from "lucide-react";
+import { Mail, Phone, MapPin, Sofa } from "lucide-react";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 
 const contactFormSchema = z.object({
@@ -56,7 +56,7 @@ export default function ContactPage() {
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-headline font-bold">Contact Us</h1>
           <p className="mt-4 text-lg text-muted-foreground max-w-2xl mx-auto">
-            Have a question or need a quote? We're here to help.
+            Have a question or need a quote for a project? We're here to help.
           </p>
         </div>
 
@@ -110,7 +110,7 @@ export default function ContactPage() {
                                                 </FormControl>
                                                 <SelectContent>
                                                 <SelectItem value="general">General Question</SelectItem>
-                                                <SelectItem value="quote">Quote Request</SelectItem>
+                                                <SelectItem value="quote">Design Consultation</SelectItem>
                                                 <SelectItem value="support">Customer Support</SelectItem>
                                                 <SelectItem value="partnership">Partnership Inquiry</SelectItem>
                                                 </SelectContent>
@@ -153,7 +153,7 @@ export default function ContactPage() {
                                 <Phone className="h-8 w-8 text-primary"/>
                                 <div>
                                     <h3 className="font-semibold">By Phone</h3>
-                                    <p className="text-sm text-muted-foreground">Mon-Fri, 7am to 5pm</p>
+                                    <p className="text-sm text-muted-foreground">Mon-Fri, 9am to 6pm</p>
                                 </div>
                             </CardHeader>
                             <CardContent>
@@ -169,20 +169,20 @@ export default function ContactPage() {
                                 </div>
                             </CardHeader>
                              <CardContent>
-                                <a href="mailto:sales@weritonhub.com" className="text-lg hover:text-primary transition-colors">sales@weritonhub.com</a>
+                                <a href="mailto:sales@weritonenterprises.com" className="text-lg hover:text-primary transition-colors">sales@weritonenterprises.com</a>
                             </CardContent>
                         </Card>
                          <Card>
                             <CardHeader className="flex flex-row items-center gap-4">
                                 <MapPin className="h-8 w-8 text-primary"/>
                                 <div>
-                                    <h3 className="font-semibold">Main Office</h3>
+                                    <h3 className="font-semibold">Main Showroom</h3>
                                      <p className="text-sm text-muted-foreground">Visit us in person</p>
                                 </div>
                             </CardHeader>
                              <CardContent>
                                 <address className="not-italic text-lg">
-                                    123 Construction Ave<br/>
+                                    123 Design Ave<br/>
                                     Builderville, ST 12345
                                 </address>
                             </CardContent>

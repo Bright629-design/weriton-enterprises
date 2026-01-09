@@ -45,7 +45,7 @@ export default function QuoteRequestPage() {
   function onSubmit(data: QuoteFormValues) {
     console.log("Quote Request Submitted:", data);
     toast({
-      title: "Quote Request Sent!",
+      title: "Consultation Request Sent!",
       description: "Thank you for your request. We will get back to you shortly.",
     });
     form.reset();
@@ -55,9 +55,9 @@ export default function QuoteRequestPage() {
     <div className="container py-12 md:py-16">
         <Card className="max-w-3xl mx-auto shadow-lg">
             <CardHeader className="text-center">
-                <CardTitle className="text-3xl md:text-4xl font-headline">Request a Quote</CardTitle>
+                <CardTitle className="text-3xl md:text-4xl font-headline">Request a Design Consultation</CardTitle>
                 <CardDescription className="text-base">
-                    Fill out the form below and one of our experts will get back to you with a customized quote.
+                    Fill out the form below and one of our design experts will get back to you.
                 </CardDescription>
             </CardHeader>
             <CardContent>
@@ -82,9 +82,9 @@ export default function QuoteRequestPage() {
                                 name="company"
                                 render={({ field }) => (
                                     <FormItem>
-                                        <FormLabel>Company (Optional)</FormLabel>
+                                        <FormLabel>Company / Design Firm (Optional)</FormLabel>
                                         <FormControl>
-                                            <Input placeholder="Doe Construction Inc." {...field} />
+                                            <Input placeholder="Doe Designs Inc." {...field} />
                                         </FormControl>
                                         <FormMessage />
                                     </FormItem>
@@ -126,7 +126,7 @@ export default function QuoteRequestPage() {
                                 <FormItem>
                                     <FormLabel>Project Name or Address</FormLabel>
                                     <FormControl>
-                                        <Input placeholder="e.g., Downtown Office Reno" {...field} />
+                                        <Input placeholder="e.g., Living Room Refresh" {...field} />
                                     </FormControl>
                                     <FormMessage />
                                 </FormItem>
@@ -137,10 +137,10 @@ export default function QuoteRequestPage() {
                             name="projectDetails"
                             render={({ field }) => (
                                 <FormItem>
-                                    <FormLabel>Project Details & Materials Needed</FormLabel>
+                                    <FormLabel>Project Details & Needs</FormLabel>
                                     <FormControl>
                                         <Textarea
-                                            placeholder="Please list the materials and quantities you need (e.g., 500 red bricks, 10 bags of cement, etc.)"
+                                            placeholder="Please describe your space, style preferences, and what you're looking for (e.g., a new sofa, a full room design, etc.)"
                                             className="min-h-[120px]"
                                             {...field}
                                         />

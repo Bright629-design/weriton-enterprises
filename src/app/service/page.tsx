@@ -8,23 +8,23 @@ import Link from "next/link";
 const services = [
     {
         icon: ClipboardList,
-        title: "Material Take-offs & Quoting",
-        description: "Save time and ensure accuracy. Provide us with your blueprints, and our team will perform a detailed material take-off and provide a comprehensive, competitive quote."
+        title: "Interior Design Consultation",
+        description: "Save time and ensure a cohesive look. Provide us with your floor plans and inspiration, and our team will create a detailed design plan and product proposal."
     },
     {
         icon: Truck,
-        title: "On-Site Delivery & Logistics",
-        description: "We offer fast and reliable delivery directly to your job site. Our fleet can handle orders of any size, with options for crane and boom truck off-loading to keep your project moving."
+        title: "White-Glove Delivery",
+        description: "We offer fast and reliable delivery directly to your home. Our team will unbox, assemble, and place your new furniture exactly where you want it."
     },
     {
         icon: Package,
-        title: "Custom Fabrication",
-        description: "Need something specific? We provide custom cutting, bending, and fabrication for materials like steel beams, rebar, and lumber to meet your exact project specifications."
+        title: "Custom Upholstery & Finishes",
+        description: "Need something specific? We provide custom upholstery and finish options for many of our pieces to meet your exact project specifications."
     },
     {
         icon: Wrench,
-        title: "Tool & Equipment Rental",
-        description: "Access professional-grade tools and heavy equipment without the cost of ownership. From excavators to power tools, we have what you need to get the job done right."
+        title: "Furniture Assembly & Installation",
+        description: "Let our professionals handle the setup. We offer assembly services for all our products, as well as installation for items like lighting and wall-mounted shelves."
     }
 ]
 
@@ -47,10 +47,10 @@ export default function ServicePage() {
                 <div className="absolute inset-0 bg-black/60" />
                 <div className="relative z-10 max-w-4xl p-4">
                     <h1 className="text-4xl md:text-6xl font-headline font-bold mb-4 drop-shadow-md">
-                        Services to Support Your Success
+                        Services to Support Your Vision
                     </h1>
                     <p className="text-lg md:text-xl mb-8 max-w-2xl mx-auto drop-shadow">
-                       More than a supplier, we are your project partner from start to finish.
+                       More than a retailer, we are your design partner from start to finish.
                     </p>
                 </div>
             </section>
@@ -60,7 +60,7 @@ export default function ServicePage() {
                     <div className="text-center max-w-3xl mx-auto mb-12">
                         <h2 className="text-3xl md:text-4xl font-headline font-bold">How We Help</h2>
                         <p className="mt-4 text-lg text-muted-foreground">
-                            We've structured our services to address the real-world challenges of construction projects, helping you save time, reduce costs, and build better.
+                            We've structured our services to address the real-world challenges of designing a space, helping you save time, reduce stress, and create a home you love.
                         </p>
                     </div>
 
@@ -86,17 +86,17 @@ export default function ServicePage() {
                 <div className="container grid md:grid-cols-2 gap-12 items-center">
                     <div>
                         <h2 className="text-3xl md:text-4xl font-headline font-bold mb-4">
-                            Your Dedicated Project Partner
+                            Your Dedicated Design Partner
                         </h2>
                         <p className="text-muted-foreground mb-6 text-lg">
-                            When you work with Weriton Hub, you get more than just materials. You get a team of experts dedicated to your success.
+                            When you work with Weriton Enterprises, you get more than just furniture. You get a team of experts dedicated to your happiness.
                         </p>
                         <ul className="space-y-4 mb-8">
                             <li className="flex items-start">
                                 <CheckCircle className="h-6 w-6 text-primary mr-3 mt-1 flex-shrink-0" />
                                 <div>
                                     <h4 className="font-semibold">Expert Consultation</h4>
-                                    <p className="text-muted-foreground">Our specialists can advise on material selection, compliance, and value engineering to optimize your project.</p>
+                                    <p className="text-muted-foreground">Our designers can advise on material selection, space planning, and style choices to optimize your home.</p>
                                 </div>
                             </li>
                              <li className="flex items-start">
@@ -109,7 +109,7 @@ export default function ServicePage() {
                              <li className="flex items-start">
                                 <CheckCircle className="h-6 w-6 text-primary mr-3 mt-1 flex-shrink-0" />
                                 <div>
-                                    <h4 className="font-semibold">Post-Project Support</h4>
+                                    <h4 className="font-semibold">Post-Purchase Support</h4>
                                     <p className="text-muted-foreground">We stand by our products and services, offering support even after your project is complete.</p>
                                 </div>
                             </li>
@@ -118,11 +118,11 @@ export default function ServicePage() {
                     <div className="rounded-lg overflow-hidden shadow-lg">
                         <Image
                             src="https://picsum.photos/seed/service-team/800/1000"
-                            alt="Weriton Hub Team"
+                            alt="Weriton Enterprises Team"
                             width={800}
                             height={1000}
                             className="w-full h-full object-cover"
-                            data-ai-hint="team meeting construction"
+                            data-ai-hint="team meeting design"
                         />
                     </div>
                 </div>
@@ -130,9 +130,9 @@ export default function ServicePage() {
 
             <section className="py-16 md:py-24 bg-background">
                 <div className="container text-center">
-                    <h2 className="text-3xl md:text-4xl font-headline font-bold mb-4">Ready to Build Better?</h2>
+                    <h2 className="text-3xl md:text-4xl font-headline font-bold mb-4">Ready to Create Your Dream Space?</h2>
                     <p className="text-muted-foreground max-w-2xl mx-auto mb-8">
-                        Let's discuss how our services can streamline your next project. Contact us today for a free consultation or to request a quote.
+                        Let's discuss how our services can help you. Contact us today for a free consultation or to request a quote.
                     </p>
                     <div className="flex justify-center gap-4">
                         <Button size="lg" asChild>

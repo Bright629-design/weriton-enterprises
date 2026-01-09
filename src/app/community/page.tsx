@@ -8,24 +8,24 @@ import Link from 'next/link';
 
 const events = [
     {
-        title: 'Annual Builders Conference',
+        title: 'Annual Design Conference',
         date: 'October 15-17, 2024',
         location: 'Downtown Convention Center',
-        description: 'Join us for three days of networking, workshops, and keynote speeches from industry leaders.',
+        description: 'Join us for three days of networking, workshops, and keynote speeches from industry leaders in design.',
         imageId: 'community-conference'
     },
     {
-        title: 'DIY Deck Building Workshop',
+        title: 'DIY Upholstery Workshop',
         date: 'September 21, 2024',
-        location: 'Weriton Hub - Store #3',
-        description: 'Learn the fundamentals of deck construction from our in-house experts. All skill levels welcome.',
+        location: 'Weriton Enterprises - Showroom #3',
+        description: 'Learn the fundamentals of upholstery from our in-house experts. All skill levels welcome.',
         imageId: 'community-workshop'
     },
     {
-        title: 'Trade Professional Networking Night',
+        title: 'Designer Networking Night',
         date: 'September 5, 2024',
         location: 'The Rooftop Bar & Grill',
-        description: 'An exclusive evening for our contractor partners to connect, share insights, and enjoy complimentary food and drinks.',
+        description: 'An exclusive evening for our trade partners to connect, share insights, and enjoy complimentary food and drinks.',
         imageId: 'community-networking'
     }
 ]
@@ -37,7 +37,7 @@ export default function CommunityPage() {
                 <div className="text-center mb-12">
                     <h1 className="text-4xl md:text-5xl font-headline font-bold">Weriton Community Hub</h1>
                     <p className="mt-4 text-lg text-muted-foreground max-w-2xl mx-auto">
-                       Connecting builders, makers, and dreamers. Join our events, workshops, and forums.
+                       Connecting designers, makers, and dreamers. Join our events, workshops, and forums.
                     </p>
                 </div>
 
@@ -78,7 +78,7 @@ export default function CommunityPage() {
                      <Users className="h-16 w-16 text-primary mx-auto mb-4" />
                      <h2 className="text-3xl md:text-4xl font-headline font-bold mb-4">Join the Conversation</h2>
                      <p className="text-muted-foreground max-w-2xl mx-auto mb-8">
-                        Have a tough question? Want to share your latest project? Our online forum is the perfect place to connect with fellow builders and get expert advice.
+                        Have a design dilemma? Want to share your latest project? Our online forum is the perfect place to connect with fellow designers and get expert advice.
                     </p>
                     <Button size="lg">
                         Visit the Community Forum <ArrowRight className="ml-2 h-5 w-5"/>
@@ -89,7 +89,7 @@ export default function CommunityPage() {
                      <h2 className="text-3xl md:text-4xl font-headline font-bold text-center mb-8">Community Spotlight</h2>
                      <div className="grid md:grid-cols-2 gap-8 items-center">
                         <div className="aspect-video rounded-lg overflow-hidden">
-                            <Image src="https://picsum.photos/seed/spotlight/800/600" alt="Community Project" width={800} height={600} className="object-cover" data-ai-hint="finished project house"/>
+                            <Image src="https://picsum.photos/seed/spotlight/800/600" alt="Community Project" width={800} height={600} className="object-cover" data-ai-hint="beautiful living room"/>
                         </div>
                         <div>
                             <div className="flex items-center gap-4 mb-4">
@@ -98,11 +98,11 @@ export default function CommunityPage() {
                                     <AvatarFallback>JD</AvatarFallback>
                                 </Avatar>
                                 <div>
-                                    <h4 className="font-bold">Jane Doe Construction</h4>
+                                    <h4 className="font-bold">Jane Doe Interiors</h4>
                                     <p className="text-sm text-muted-foreground">Featured Project: "The Hillside Modern"</p>
                                 </div>
                             </div>
-                             <p className="text-muted-foreground mb-4">"We couldn't have completed our award-winning 'Hillside Modern' project without the quality materials and timely delivery from Weriton Hub. Their contractor program is second to none, and their team always goes the extra mile."</p>
+                             <p className="text-muted-foreground mb-4">"We couldn't have completed our award-winning 'Hillside Modern' project without the quality pieces and timely delivery from Weriton Enterprises. Their trade program is second to none, and their team always goes the extra mile."</p>
                              <Link href="/projects/hillside-modern">
                                 <Button variant="outline">View Project Case Study</Button>
                              </Link>

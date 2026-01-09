@@ -8,31 +8,31 @@ import Link from 'next/link';
 
 const projects = [
   {
-    id: 'downtown-tower',
-    title: 'Downtown Office Tower',
-    category: 'Commercial',
-    description: 'A 40-story high-rise featuring a state-of-the-art curtain wall system and sustainable materials throughout. Weriton Hub supplied over 2,000 tons of structural steel and all facade components.',
+    id: 'downtown-loft',
+    title: 'Downtown Industrial Loft',
+    category: 'Residential',
+    description: 'A 4,000 sq/ft loft transformed into a warm, inviting home. Weriton Enterprises provided all key furniture pieces, including the custom sectional sofa and dining set.',
     imageId: 'project-downtown'
   },
   {
     id: 'suburban-residence',
     title: 'The Oak Knoll Residence',
     category: 'Residential',
-    description: 'A custom luxury home built with premium natural materials. We provided reclaimed hardwood flooring, custom masonry, and high-efficiency windows.',
+    description: 'A custom luxury home furnished with our finest collections. We provided timeless pieces that blend classic and modern design.',
     imageId: 'project-residential'
   },
   {
-    id: 'community-park',
-    title: 'Lakeside Community Park',
-    category: 'Public Works',
-    description: 'A complete revitalization of a public space. Our contribution included permeable pavers, landscaping supplies, and durable outdoor fixtures.',
+    id: 'boutique-hotel',
+    title: 'The Ashton Boutique Hotel',
+    category: 'Hospitality',
+    description: 'A complete outfitting of a 50-room boutique hotel. Our contribution included custom lobby furniture, room furnishings, and accent lighting throughout.',
     imageId: 'project-park'
   },
    {
-    id: 'bridge-expansion',
-    title: 'Highway 401 Bridge Expansion',
-    category: 'Infrastructure',
-    description: 'A critical infrastructure project to ease traffic congestion. Weriton Hub was the primary supplier of precast concrete girders and high-strength rebar.',
+    id: 'modern-restaurant',
+    title: '"Voro" Restaurant & Bar',
+    category: 'Commercial',
+    description: 'A chic, modern dining experience. Weriton Enterprises was the primary supplier of all seating, tables, and the statement bar.',
     imageId: 'project-bridge'
   },
 ];
@@ -44,7 +44,7 @@ export default function ProjectsPage() {
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-headline font-bold">Our Projects</h1>
           <p className="mt-4 text-lg text-muted-foreground max-w-2xl mx-auto">
-            See how Weriton Hub materials have been used to build standout projects across the region.
+            See how Weriton Enterprises furniture and design services have been used to create standout spaces.
           </p>
         </div>
 
@@ -81,9 +81,9 @@ export default function ProjectsPage() {
           })}
         </div>
          <section className="py-16 md:py-24 text-center">
-            <h2 className="text-3xl md:text-4xl font-headline font-bold mb-4">Have a Project with Our Materials?</h2>
+            <h2 className="text-3xl md:text-4xl font-headline font-bold mb-4">Have a Project with Our Furniture?</h2>
             <p className="text-muted-foreground max-w-2xl mx-auto mb-8">
-                We love to see our products in action. If you have a completed project you're proud of, share it with us for a chance to be featured in our gallery.
+                We love to see our pieces in beautiful spaces. If you have a completed project you're proud of, share it with us for a chance to be featured in our gallery.
             </p>
             <Button size="lg" asChild>
                 <Link href="/contact">

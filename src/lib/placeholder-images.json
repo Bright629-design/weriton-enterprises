@@ -2,147 +2,147 @@
   "placeholderImages": [
     {
       "id": "hero",
-      "description": "A modern construction site with a sunset in the background.",
-      "imageUrl": "https://images.unsplash.com/photo-1723256761894-e7a8f5b47349?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb25zdHJ1Y3Rpb24lMjBzdW5zZXR8ZW58MHx8fHwxNzY3OTg3Njg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "construction sunset"
+      "description": "A beautifully designed modern living room with stylish furniture.",
+      "imageUrl": "https://images.unsplash.com/photo-1618220179428-22790b461013?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBsaXZpbmclMjByb29tfGVufDB8fHx8MTc2Nzk5ODg3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern living room"
     },
     {
-      "id": "product-bricks",
-      "description": "A stack of red bricks.",
-      "imageUrl": "https://images.unsplash.com/photo-1519418482467-96eca39b3f1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YnJpY2tzfGVufDB8fHx8MTc2Nzk4NzY4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "bricks"
+      "id": "product-sofa",
+      "description": "A stylish green velvet sofa.",
+      "imageUrl": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzb2ZhfGVufDB8fHx8MTc2Nzk5OTIwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "green sofa"
     },
     {
-      "id": "product-cement",
-      "description": "Bags of cement stacked on a pallet.",
-      "imageUrl": "https://images.unsplash.com/photo-1523293915678-d126868e96f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjZW1lbnQlMjBiYWdzfGVufDB8fHx8MTc2Nzg4MjE4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "cement bags"
+      "id": "product-table",
+      "description": "A modern coffee table.",
+      "imageUrl": "https://images.unsplash.com/photo-1614450379899-494b34106362?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtb2Rlcm4lMjBjb2ZmZWUlMjB0YWJsZXxlbnwwfHx8fDE3Nzk5OTkyMDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coffee table"
     },
     {
-      "id": "product-tools",
-      "description": "Various construction tools like hammers and wrenches.",
-      "imageUrl": "https://images.unsplash.com/photo-1586864387789-628af9feed72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb25zdHJ1Y3Rpb24lMjB0b29sc3xlbnwwfHx8fDE3Njc5ODc2ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "construction tools"
+      "id": "product-lamp",
+      "description": "A stylish floor lamp.",
+      "imageUrl": "https://images.unsplash.com/photo-1594216279133-d80c61585441?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxmbG9vciUyMGxhbXB8ZW58MHx8fHwxNzY5OTk5MjA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "floor lamp"
     },
     {
-      "id": "product-lumber",
-      "description": "Stacks of wooden planks.",
-      "imageUrl": "https://images.unsplash.com/photo-1598373065888-e60f9368da60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3b29kJTIwbHVtYmVyfGVufDB8fHx8MTc2Nzk4NzY4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "wood lumber"
+      "id": "product-armchair",
+      "description": "A comfortable armchair.",
+      "imageUrl": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhcm1jaGFpcnxlbnwwfHx8fDE3Nzk5OTkyMDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "armchair"
     },
     {
-      "id": "blog-foundation",
-      "description": "A concrete foundation being laid for a house.",
-      "imageUrl": "https://images.unsplash.com/photo-1641698680673-edab78703c0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb25jcmV0ZSUyMGZvdW5kYXRpb258ZW58MHx8fHwxNzY3OTg3Njg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "concrete foundation"
+      "id": "blog-sofa-selection",
+      "description": "A person sitting on a comfortable sofa in a well-lit room.",
+      "imageUrl": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzb2ZhJTIwcm9vbXxlbnwwfHx8fDE3Nzk5OTkyMDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sofa room"
     },
     {
-      "id": "blog-framing",
-      "description": "The wooden frame of a house under construction.",
-      "imageUrl": "https://images.unsplash.com/photo-1603444796489-2c2efa5bb680?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxob3VzZSUyMGZyYW1lfGVufDB8fHx8MTc2Nzk4NzY4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "house frame"
+      "id": "blog-lighting",
+      "description": "Stylish interior lighting fixtures.",
+      "imageUrl": "https://images.unsplash.com/photo-1617029519393-54fb2b1c8b36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxpbnRlcmlvciUyMGxpZ2h0aW5nfGVufDB8fHx8MTc2Nzk5OTIwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "interior lighting"
     },
     {
       "id": "contractor-banner",
-      "description": "A contractor looking over blueprints at a construction site.",
-      "imageUrl": "https://images.unsplash.com/photo-1742415106160-594d07f6cc23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjb250cmFjdG9yJTIwYmx1ZXByaW50c3xlbnwwfHx8fDE3Njc5ODc2ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "contractor blueprints"
+      "description": "An interior designer looking over fabric swatches.",
+      "imageUrl": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbnRlcmlvciUyMGRlc2lnbmVyfGVufDB8fHx8MTc2Nzk5OTI3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "interior designer"
     },
     {
       "id": "service-banner",
-      "description": "A forklift moving pallets of building materials in a large warehouse.",
-      "imageUrl": "https://images.unsplash.com/photo-1573552991725-c7b115591d04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d2FyZWhvdXNlJTIwbG9naXN0aWNzfGVufDB8fHx8MTc2Nzk3MTQ5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "warehouse logistics"
+      "description": "A team of designers collaborating in a modern office.",
+      "imageUrl": "https://images.unsplash.com/photo-1600508774634-0a3596956254?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkZXNpZ24lMjB0ZWFtfGVufDB8fHx8MTc2Nzk5OTI3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "design team"
     },
     {
       "id": "project-downtown",
-      "description": "A modern glass skyscraper reflecting the sky.",
-      "imageUrl": "https://images.unsplash.com/photo-1708341138840-5a19fce40c32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxza3lzY3JhcGVyJTIwY2l0eXxlbnwwfHx8fDE3Njc5ODg0OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "skyscraper city"
+      "description": "A luxurious modern apartment living room with a city view.",
+      "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6164a83639?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsb2Z0JTIwYXBhcnRtZW50fGVufDB8fHx8MTc2Nzk5OTI3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "loft apartment"
     },
     {
       "id": "project-residential",
-      "description": "A beautiful modern suburban house with a landscaped garden.",
-      "imageUrl": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBob3VzZXxlbnwwfHx8fDE3Njc5MDEwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "modern house"
+      "description": "A beautiful modern suburban house interior.",
+      "imageUrl": "https://images.unsplash.com/photo-1613545325278-f24b0cae1224?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBob3VzZSUyMGludGVyaW9yfGVufDB8fHx8MTc2Nzk5OTI3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern house interior"
     },
     {
       "id": "project-park",
-      "description": "A sunny day at a public park with families enjoying the space.",
-      "imageUrl": "https://images.unsplash.com/photo-1623593419606-7f9c8c22d736?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjaXR5JTIwcGFya3xlbnwwfHx8fDE3Njc5NjgzNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "city park"
+      "description": "A boutique hotel lobby with stylish furniture.",
+      "imageUrl": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxob3RlbCUyMGxvYmJ5fGVufDB8fHx8MTc2Nzk5OTMwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hotel lobby"
     },
     {
       "id": "project-bridge",
-      "description": "A long modern bridge spanning across a body of water.",
-      "imageUrl": "https://images.unsplash.com/photo-1585226946575-8653d4794d8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtb2Rlcm4lMjBicmlkZ2V8ZW58MHx8fHwxNzY3OTg4NDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "modern bridge"
+      "description": "A modern restaurant interior with elegant design.",
+      "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZXN0YXVyYW50fGVufDB8fHx8MTc2Nzk5OTMwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "restaurant interior"
     },
     {
       "id": "community-conference",
-      "description": "A large conference hall with people networking.",
-      "imageUrl": "https://images.unsplash.com/photo-1480944657103-7fed22359e1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxidXNpbmVzcyUyMGNvbmZlcmVuY2V8ZW58MHx8fHwxNzY3OTg4NDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "business conference"
+      "description": "A large design conference hall with people networking.",
+      "imageUrl": "https://images.unsplash.com/photo-1549499834-19b9d36b432a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkZXNpZ24lMjBjb25mZXJlbmNlfGVufDB8fHx8MTc2Nzk5OTMwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "design conference"
     },
     {
       "id": "community-workshop",
-      "description": "People participating in a hands-on construction workshop.",
-      "imageUrl": "https://images.unsplash.com/photo-1629341280853-7c7873e628e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb25zdHJ1Y3Rpb24lMjB3b3Jrc2hvcHxlbnwwfHx8fDE3Njc5ODg0OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "construction workshop"
+      "description": "People participating in a hands-on furniture design workshop.",
+      "imageUrl": "https://images.unsplash.com/photo-1578496479532-347b18c61793?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmdXJuaXR1cmUlMjB3b3Jrc2hvcHxlbnwwfHx8fDE3Nzk5OTkzMDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "furniture workshop"
     },
     {
       "id": "community-networking",
-      "description": "Professionals chatting and networking at an evening event.",
+      "description": "Professionals chatting and networking at an evening design event.",
       "imageUrl": "https://images.unsplash.com/photo-1560439514-4e9645039924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxuZXR3b3JraW5nJTIwZXZlbnR8ZW58MHx8fHwxNzY3ODY1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "networking event"
     },
     {
       "id": "brand-brickmaster",
-      "description": "Logo for Brick Master",
+      "description": "Logo for a luxury furniture brand.",
       "imageUrl": "https://images.unsplash.com/photo-1757207446189-5353b275ff86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxicmljayUyMGxvZ298ZW58MHx8fHwxNzY3OTg4NDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "brick logo"
+      "imageHint": "furniture logo"
     },
     {
       "id": "brand-steelstrength",
-      "description": "Logo for Steel Strength",
+      "description": "Logo for a modern furniture brand.",
       "imageUrl": "https://images.unsplash.com/photo-1755409022230-7d96727f4b69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzdGVlbCUyMGxvZ298ZW58MHx8fHwxNzY3OTg4NDk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "steel logo"
+      "imageHint": "modern logo"
     },
     {
       "id": "brand-durawood",
-      "description": "Logo for Dura-Wood",
+      "description": "Logo for a wood furniture brand.",
       "imageUrl": "https://images.unsplash.com/photo-1580030962278-d5281d09b1e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d29vZCUyMGxvZ298ZW58MHx8fHwxNzY3OTg4NDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "wood logo"
     },
     {
       "id": "brand-toolmakers",
-      "description": "Logo for ToolMakers",
+      "description": "Logo for a designer tool brand.",
       "imageUrl": "https://images.unsplash.com/photo-1760443728263-a85534971907?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx0b29sJTIwbG9nb3xlbnwwfHx8fDE3Njc5ODg0OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "tool logo"
+      "imageHint": "design logo"
     },
     {
       "id": "brand-gardeon",
-      "description": "Logo for Gardeon",
+      "description": "Logo for an outdoor furniture brand.",
       "imageUrl": "https://images.unsplash.com/photo-1700809887157-98329eeb7674?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwbGFudCUyMGxvZ298ZW58MHx8fHwxNzY3OTg4NDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "plant logo"
+      "imageHint": "outdoor logo"
     },
     {
       "id": "brand-pipeline",
-      "description": "Logo for Pipe-Line",
+      "description": "Logo for a minimalist design brand.",
       "imageUrl": "https://images.unsplash.com/photo-1573265410544-a7453e231749?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGlwZSUyMGxvZ298ZW58MHx8fHwxNzY3OTg4NDk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "pipe logo"
+      "imageHint": "minimalist logo"
     },
     {
       "id": "brand-voltex",
-      "description": "Logo for Voltex",
+      "description": "Logo for a lighting design brand.",
       "imageUrl": "https://images.unsplash.com/photo-1651044450619-5ce74d316987?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxlbGVjdHJpYyUyMGxvZ298ZW58MHx8fHwxNzY3OTEyNjMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "electric logo"
+      "imageHint": "lighting logo"
     },
     {
       "id": "brand-finishcoat",
-      "description": "Logo for Finish Coat",
+      "description": "Logo for a textile and finishes brand.",
       "imageUrl": "https://images.unsplash.com/photo-1748446460790-0f199ef1b891?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwYWludCUyMGxvZ298ZW58MHx8fHwxNzY3OTg4NDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "paint logo"
+      "imageHint": "textile logo"
     },
     {
       "id": "3d-kitchen",

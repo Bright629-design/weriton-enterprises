@@ -1,8 +1,8 @@
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
-import { HardHat, Menu, MessageCircle, ShoppingCart } from 'lucide-react';
+import { Sofa, Menu, MessageCircle, ShoppingCart } from 'lucide-react';
 import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
-import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuLabel, DropdownMenuSeparator, DropdownMenuTrigger } from '../ui/dropdown-menu';
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from '../ui/dropdown-menu';
 import { ChevronDown } from 'lucide-react';
 
 const navLinks = [
@@ -34,8 +34,8 @@ export function Header() {
       <div className="container flex h-16 items-center">
         <div className="mr-4 hidden md:flex">
           <Link href="/" className="mr-6 flex items-center space-x-2">
-            <HardHat className="h-6 w-6 text-primary" />
-            <span className="font-bold font-headline text-lg">Weriton Hub</span>
+            <Sofa className="h-6 w-6 text-primary" />
+            <span className="font-bold font-headline text-lg">Weriton Enterprises</span>
           </Link>
           <nav className="flex items-center space-x-1 text-sm font-medium">
             {navLinks.map((link) => (
@@ -77,8 +77,8 @@ export function Header() {
             </SheetTrigger>
             <SheetContent side="left" className="pr-0">
               <Link href="/" className="mr-6 flex items-center space-x-2 mb-8">
-                <HardHat className="h-6 w-6 text-primary" />
-                <span className="font-bold font-headline text-lg">Weriton Hub</span>
+                <Sofa className="h-6 w-6 text-primary" />
+                <span className="font-bold font-headline text-lg">Weriton Enterprises</span>
               </Link>
               <nav className="grid gap-2">
                 {navLinks.map((link) => {
@@ -116,8 +116,8 @@ export function Header() {
 
         <div className="flex flex-1 items-center justify-center md:justify-end space-x-2">
            <Link href="/" className="flex items-center space-x-2 md:hidden">
-            <HardHat className="h-6 w-6 text-primary" />
-            <span className="font-bold font-headline text-lg">Weriton Hub</span>
+            <Sofa className="h-6 w-6 text-primary" />
+            <span className="font-bold font-headline text-lg">Weriton Enterprises</span>
           </Link>
         </div>
 
