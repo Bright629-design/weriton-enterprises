@@ -47,6 +47,126 @@
       "description": "A contractor looking over blueprints at a construction site.",
       "imageUrl": "https://images.unsplash.com/photo-1742415106160-594d07f6cc23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjb250cmFjdG9yJTIwYmx1ZXByaW50c3xlbnwwfHx8fDE3Njc5ODc2ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "contractor blueprints"
+    },
+    {
+      "id": "service-banner",
+      "description": "A forklift moving pallets of building materials in a large warehouse.",
+      "imageUrl": "https://images.unsplash.com/photo-1573552991725-c7b115591d04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d2FyZWhvdXNlJTIwbG9naXN0aWNzfGVufDB8fHx8MTc2Nzk3MTQ5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "warehouse logistics"
+    },
+    {
+      "id": "project-downtown",
+      "description": "A modern glass skyscraper reflecting the sky.",
+      "imageUrl": "https://images.unsplash.com/photo-1708341138840-5a19fce40c32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxza3lzY3JhcGVyJTIwY2l0eXxlbnwwfHx8fDE3Njc5ODg0OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "skyscraper city"
+    },
+    {
+      "id": "project-residential",
+      "description": "A beautiful modern suburban house with a landscaped garden.",
+      "imageUrl": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBob3VzZXxlbnwwfHx8fDE3Njc5MDEwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern house"
+    },
+    {
+      "id": "project-park",
+      "description": "A sunny day at a public park with families enjoying the space.",
+      "imageUrl": "https://images.unsplash.com/photo-1623593419606-7f9c8c22d736?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjaXR5JTIwcGFya3xlbnwwfHx8fDE3Njc5NjgzNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city park"
+    },
+    {
+      "id": "project-bridge",
+      "description": "A long modern bridge spanning across a body of water.",
+      "imageUrl": "https://images.unsplash.com/photo-1585226946575-8653d4794d8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtb2Rlcm4lMjBicmlkZ2V8ZW58MHx8fHwxNzY3OTg4NDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern bridge"
+    },
+    {
+      "id": "community-conference",
+      "description": "A large conference hall with people networking.",
+      "imageUrl": "https://images.unsplash.com/photo-1480944657103-7fed22359e1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxidXNpbmVzcyUyMGNvbmZlcmVuY2V8ZW58MHx8fHwxNzY3OTg4NDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "business conference"
+    },
+    {
+      "id": "community-workshop",
+      "description": "People participating in a hands-on construction workshop.",
+      "imageUrl": "https://images.unsplash.com/photo-1629341280853-7c7873e628e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb25zdHJ1Y3Rpb24lMjB3b3Jrc2hvcHxlbnwwfHx8fDE3Njc5ODg0OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "construction workshop"
+    },
+    {
+      "id": "community-networking",
+      "description": "Professionals chatting and networking at an evening event.",
+      "imageUrl": "https://images.unsplash.com/photo-1560439514-4e9645039924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxuZXR3b3JraW5nJTIwZXZlbnR8ZW58MHx8fHwxNzY3ODY1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "networking event"
+    },
+    {
+      "id": "brand-brickmaster",
+      "description": "Logo for Brick Master",
+      "imageUrl": "https://images.unsplash.com/photo-1757207446189-5353b275ff86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxicmljayUyMGxvZ298ZW58MHx8fHwxNzY3OTg4NDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "brick logo"
+    },
+    {
+      "id": "brand-steelstrength",
+      "description": "Logo for Steel Strength",
+      "imageUrl": "https://images.unsplash.com/photo-1755409022230-7d96727f4b69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzdGVlbCUyMGxvZ298ZW58MHx8fHwxNzY3OTg4NDk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "steel logo"
+    },
+    {
+      "id": "brand-durawood",
+      "description": "Logo for Dura-Wood",
+      "imageUrl": "https://images.unsplash.com/photo-1580030962278-d5281d09b1e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d29vZCUyMGxvZ298ZW58MHx8fHwxNzY3OTg4NDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wood logo"
+    },
+    {
+      "id": "brand-toolmakers",
+      "description": "Logo for ToolMakers",
+      "imageUrl": "https://images.unsplash.com/photo-1760443728263-a85534971907?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx0b29sJTIwbG9nb3xlbnwwfHx8fDE3Njc5ODg0OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tool logo"
+    },
+    {
+      "id": "brand-gardeon",
+      "description": "Logo for Gardeon",
+      "imageUrl": "https://images.unsplash.com/photo-1700809887157-98329eeb7674?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwbGFudCUyMGxvZ298ZW58MHx8fHwxNzY3OTg4NDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "plant logo"
+    },
+    {
+      "id": "brand-pipeline",
+      "description": "Logo for Pipe-Line",
+      "imageUrl": "https://images.unsplash.com/photo-1573265410544-a7453e231749?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGlwZSUyMGxvZ298ZW58MHx8fHwxNzY3OTg4NDk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pipe logo"
+    },
+    {
+      "id": "brand-voltex",
+      "description": "Logo for Voltex",
+      "imageUrl": "https://images.unsplash.com/photo-1651044450619-5ce74d316987?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxlbGVjdHJpYyUyMGxvZ298ZW58MHx8fHwxNzY3OTEyNjMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "electric logo"
+    },
+    {
+      "id": "brand-finishcoat",
+      "description": "Logo for Finish Coat",
+      "imageUrl": "https://images.unsplash.com/photo-1748446460790-0f199ef1b891?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwYWludCUyMGxvZ298ZW58MHx8fHwxNzY3OTg4NDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "paint logo"
+    },
+    {
+      "id": "3d-kitchen",
+      "description": "A 3D render of a modern kitchen.",
+      "imageUrl": "https://images.unsplash.com/photo-1717429541792-5c59021d6ceb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtb2Rlcm4lMjBraXRjaGVufGVufDB8fHx8MTc2Nzk0ODkzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern kitchen"
+    },
+    {
+      "id": "3d-deck",
+      "description": "A 3D render of a backyard deck.",
+      "imageUrl": "https://images.unsplash.com/photo-1613544723412-b331bda01e87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxiYWNreWFyZCUyMGRlY2t8ZW58MHx8fHwxNzY3OTg4NDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "backyard deck"
+    },
+    {
+      "id": "3d-pergola",
+      "description": "A 3D render of a garden pergola.",
+      "imageUrl": "https://images.unsplash.com/photo-1723641580209-919d71934d43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxnYXJkZW4lMjBwZXJnb2xhfGVufDB8fHx8MTc2Nzk4ODQ5NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "garden pergola"
+    },
+    {
+      "id": "innovation-banner",
+      "description": "A futuristic architectural design or a lab with scientists.",
+      "imageUrl": "https://images.unsplash.com/photo-1542601483-9645bd46426d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxmdXR1cmlzdGljJTIwYXJjaGl0ZWN0dXJlfGVufDB8fHx8MTc2Nzk4ODQ5NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "futuristic architecture"
     }
   ]
 }
