@@ -1,3 +1,52 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A modern construction site with a sunset in the background.",
+      "imageUrl": "https://images.unsplash.com/photo-1723256761894-e7a8f5b47349?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb25zdHJ1Y3Rpb24lMjBzdW5zZXR8ZW58MHx8fHwxNzY3OTg3Njg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "construction sunset"
+    },
+    {
+      "id": "product-bricks",
+      "description": "A stack of red bricks.",
+      "imageUrl": "https://images.unsplash.com/photo-1519418482467-96eca39b3f1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YnJpY2tzfGVufDB8fHx8MTc2Nzk4NzY4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bricks"
+    },
+    {
+      "id": "product-cement",
+      "description": "Bags of cement stacked on a pallet.",
+      "imageUrl": "https://images.unsplash.com/photo-1523293915678-d126868e96f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjZW1lbnQlMjBiYWdzfGVufDB8fHx8MTc2Nzg4MjE4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cement bags"
+    },
+    {
+      "id": "product-tools",
+      "description": "Various construction tools like hammers and wrenches.",
+      "imageUrl": "https://images.unsplash.com/photo-1586864387789-628af9feed72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb25zdHJ1Y3Rpb24lMjB0b29sc3xlbnwwfHx8fDE3Njc5ODc2ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "construction tools"
+    },
+    {
+      "id": "product-lumber",
+      "description": "Stacks of wooden planks.",
+      "imageUrl": "https://images.unsplash.com/photo-1598373065888-e60f9368da60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3b29kJTIwbHVtYmVyfGVufDB8fHx8MTc2Nzk4NzY4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wood lumber"
+    },
+    {
+      "id": "blog-foundation",
+      "description": "A concrete foundation being laid for a house.",
+      "imageUrl": "https://images.unsplash.com/photo-1641698680673-edab78703c0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb25jcmV0ZSUyMGZvdW5kYXRpb258ZW58MHx8fHwxNzY3OTg3Njg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "concrete foundation"
+    },
+    {
+      "id": "blog-framing",
+      "description": "The wooden frame of a house under construction.",
+      "imageUrl": "https://images.unsplash.com/photo-1603444796489-2c2efa5bb680?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxob3VzZSUyMGZyYW1lfGVufDB8fHx8MTc2Nzk4NzY4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "house frame"
+    },
+    {
+      "id": "contractor-banner",
+      "description": "A contractor looking over blueprints at a construction site.",
+      "imageUrl": "https://images.unsplash.com/photo-1742415106160-594d07f6cc23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjb250cmFjdG9yJTIwYmx1ZXByaW50c3xlbnwwfHx8fDE3Njc5ODc2ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "contractor blueprints"
+    }
+  ]
 }
