@@ -16,7 +16,7 @@ export function ProductCard({ product }: ProductCardProps) {
 
   return (
     <Card className="flex flex-col overflow-hidden h-full transition-all duration-300 hover:shadow-xl hover:-translate-y-1">
-      <Link href={`/hardware#${product.category}`} className="flex flex-col h-full group bg-card">
+      <Link href={`/products/${product.id}`} className="flex flex-col h-full group bg-card">
         <div className="relative overflow-hidden">
           {productImage && (
             <Image
