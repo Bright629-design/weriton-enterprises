@@ -155,6 +155,114 @@
       "description": "A person reading a blog or article on a tablet in a cozy setting.",
       "imageUrl": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWFkaW5nJTIwYmxvZ3xlbnwwfHx8fDE3ODAwMDIxNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "reading blog"
+    },
+    {
+      "id": "mat-cement",
+      "description": "Bags of cement stacked on a pallet.",
+      "imageUrl": "https://images.unsplash.com/photo-1523293915678-d126868e96f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjZW1lbnQlMjBiYWdzfGVufDB8fHx8MTc2ODA3MTY3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cement bags"
+    },
+    {
+      "id": "mat-aggregates",
+      "description": "A pile of construction aggregates like gravel and sand.",
+      "imageUrl": "https://images.unsplash.com/photo-1690140354823-9cddaf68fe1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb25zdHJ1Y3Rpb24lMjBhZ2dyZWdhdGVzfGVufDB8fHx8MTc2ODA3MTY3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "construction aggregates"
+    },
+    {
+      "id": "mat-steel",
+      "description": "A bundle of steel rebar for concrete reinforcement.",
+      "imageUrl": "https://images.unsplash.com/photo-1761479867761-7a8b11f54449?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzdGVlbCUyMHJlYmFyfGVufDB8fHx8MTc2ODA1NDM1M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "steel rebar"
+    },
+    {
+      "id": "mat-timber",
+      "description": "Stacks of cut timber and wooden boards.",
+      "imageUrl": "https://images.unsplash.com/photo-1710579682386-aeff3f831b7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx0aW1iZXIlMjBib2FyZHN8ZW58MHx8fHwxNzY4MDcxNjc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "timber boards"
+    },
+    {
+      "id": "mat-roofing",
+      "description": "Close-up of modern roofing tiles.",
+      "imageUrl": "https://images.unsplash.com/photo-1742815565637-99da02346ba4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxyb29maW5nJTIwdGlsZXN8ZW58MHx8fHwxNzY4MDcxNjc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "roofing tiles"
+    },
+    {
+      "id": "mat-bricks",
+      "description": "A pallet of red construction bricks.",
+      "imageUrl": "https://images.unsplash.com/photo-1584505192555-4feb7834358a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWQlMjBicmlja3N8ZW58MHx8fHwxNzY3OTYwNTIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "red bricks"
+    },
+    {
+      "id": "elec-cables",
+      "description": "Spools of different colored electrical cables.",
+      "imageUrl": "https://images.unsplash.com/photo-1603736128636-1abafb08d099?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxlbGVjdHJpY2FsJTIwY2FibGVzfGVufDB8fHx8MTc2ODA3MTY3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "electrical cables"
+    },
+    {
+      "id": "elec-switches",
+      "description": "A variety of modern light switches and electrical sockets.",
+      "imageUrl": "https://images.unsplash.com/photo-1520254695104-2765bc239df7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxsaWdodCUyMHN3aXRjaGVzfGVufDB8fHx8MTc2ODA3MTY3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "light switches"
+    },
+    {
+      "id": "elec-lighting",
+      "description": "An assortment of LED bulbs and modern light fixtures.",
+      "imageUrl": "https://images.unsplash.com/photo-1674060319958-74ab6034346b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxMRUQlMjBsaWdodGluZ3xlbnwwfHx8fDE3NjgwNzE2Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "LED lighting"
+    },
+    {
+      "id": "elec-solar",
+      "description": "Solar panels installed on a roof.",
+      "imageUrl": "https://images.unsplash.com/photo-1509391366360-2e959784a276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzb2xhciUyMHBhbmVsc3xlbnwwfHx8fDE3NjgwMzU2NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "solar panels"
+    },
+    {
+      "id": "elec-conduit",
+      "description": "PVC and metal electrical conduits and fittings.",
+      "imageUrl": "https://images.unsplash.com/photo-1644745121891-f892bdc177f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxlbGVjdHJpY2FsJTIwY29uZHVpdHxlbnwwfHx8fDE3NjgwNzE2Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "electrical conduit"
+    },
+    {
+      "id": "elec-breakers",
+      "description": "An open electrical panel showing circuit breakers.",
+      "imageUrl": "https://images.unsplash.com/photo-1544724569-5f546fd6f2b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaXJjdWl0JTIwYnJlYWtlcnN8ZW58MHx8fHwxNzY4MDcxNjc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "circuit breakers"
+    },
+    {
+      "id": "plumb-pipes",
+      "description": "A collection of copper and PVC pipes and fittings.",
+      "imageUrl": "https://images.unsplash.com/photo-1611236544238-2d272eff2cd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwbHVtYmluZyUyMHBpcGVzfGVufDB8fHx8MTc2ODAzOTc5NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "plumbing pipes"
+    },
+    {
+      "id": "plumb-taps",
+      "description": "A display of modern kitchen and bathroom taps.",
+      "imageUrl": "https://images.unsplash.com/photo-1646592491435-6bc8cb477a04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtb2Rlcm4lMjBmYXVjZXRzfGVufDB8fHx8MTc2ODA3MTY3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern faucets"
+    },
+    {
+      "id": "plumb-tanks",
+      "description": "A large plastic water storage tank.",
+      "imageUrl": "https://images.unsplash.com/photo-1562185412-99dacaad0c9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3YXRlciUyMHRhbmt8ZW58MHx8fHwxNzY4MDcxNjc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "water tank"
+    },
+    {
+      "id": "plumb-accessories",
+      "description": "Various bathroom accessories like towel rails and holders.",
+      "imageUrl": "https://images.unsplash.com/photo-1758548157466-7c454382035a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxiYXRocm9vbSUyMGFjY2Vzc29yaWVzfGVufDB8fHx8MTc2ODA3MTY4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bathroom accessories"
+    },
+    {
+      "id": "plumb-sinks",
+      "description": "A selection of ceramic and stainless steel sinks.",
+      "imageUrl": "https://images.unsplash.com/photo-1672271682967-48c259019b58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxraXRjaGVuJTIwc2lua3N8ZW58MHx8fHwxNzY4MDcxNjc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kitchen sinks"
+    },
+    {
+      "id": "plumb-toilets",
+      "description": "Modern, water-efficient toilets on display.",
+      "imageUrl": "https://images.unsplash.com/photo-1595515926042-c36353b7ea13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtb2Rlcm4lMjB0b2lsZXRzfGVufDB8fHx8MTc2ODA3MTY3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern toilets"
     }
   ]
 }

@@ -14,7 +14,8 @@ const sections = [
             { name: "Timber and Boards", description: "Sustainably sourced lumber, plywood, MDF, and specialty boards for framing and finishing." },
             { name: "Roofing Materials", description: "A wide selection of shingles, tiles, membranes, and underlayments to protect your structure." },
             { name: "Bricks and Blocks", description: "Various types and sizes of bricks and concrete blocks for walls and paving." },
-        ]
+        ],
+        imageIds: ["mat-cement", "mat-aggregates", "mat-steel", "mat-timber", "mat-roofing", "mat-bricks"]
     },
     {
         id: "electrical",
@@ -26,7 +27,8 @@ const sections = [
             { name: "Switches and Sockets", description: "Modern and classic designs to fit any interior style." },
             { name: "Lighting Solutions", description: "LEDs, fixtures, landscape lighting, and smart lighting systems." },
             { name: "Solar Systems", description: "Panels, inverters, and batteries for sustainable energy solutions." },
-        ]
+        ],
+        imageIds: ["elec-cables", "elec-switches", "elec-lighting", "elec-solar", "elec-conduit", "elec-breakers"]
     },
     {
         id: "plumbing",
@@ -38,7 +40,8 @@ const sections = [
             { name: "Taps and Mixers", description: "Durable and stylish faucets for kitchens, bathrooms, and utility areas." },
             { name: "Water Tanks", description: "Storage solutions for residential and commercial water management." },
             { name: "Bathroom Accessories", description: "Complete your bathroom with our range of high-quality accessories." },
-        ]
+        ],
+        imageIds: ["plumb-pipes", "plumb-taps", "plumb-tanks", "plumb-accessories", "plumb-sinks", "plumb-toilets"]
     },
     {
         id: "tools",
@@ -50,7 +53,8 @@ const sections = [
             { name: "Power Tools", description: "Drills, saws, sanders, and grinders from the industry's most trusted brands." },
             { name: "Construction Equipment", description: "Ladders, scaffolding, and mixers to support larger projects." },
             { name: "Safety Gear", description: "Hard hats, gloves, safety glasses, and harnesses to keep you safe on the job." },
-        ]
+        ],
+        imageIds: []
     }
 ];
 
@@ -84,25 +88,51 @@ export default function HardwarePage() {
             <div className="container py-12 md:py-16">
                 {sections.map((section, index) => (
                     <section key={section.id} id={section.id} className={`py-12 ${index > 0 ? 'border-t' : ''}`}>
-                        <div className="grid md:grid-cols-3 gap-8">
-                            <div className="md:col-span-1">
+                        <div className="grid lg:grid-cols-3 gap-12 items-start">
+                            <div className="lg:col-span-1">
                                  <div className="sticky top-24">
                                     <section.icon className="h-12 w-12 text-primary mb-4" />
                                     <h2 className="text-3xl font-headline font-bold mb-4">{section.title}</h2>
                                     <p className="text-muted-foreground">{section.description}</p>
                                  </div>
                             </div>
-                            <div className="md:col-span-2 grid sm:grid-cols-2 gap-6">
-                                {section.items.map(item => (
-                                    <Card key={item.name} className="bg-secondary">
-                                        <CardHeader>
-                                            <CardTitle className="font-headline text-xl">{item.name}</CardTitle>
-                                        </CardHeader>
-                                        <CardContent>
-                                            <p className="text-muted-foreground">{item.description}</p>
-                                        </CardContent>
-                                    </Card>
-                                ))}
+                            <div className="lg:col-span-2">
+                                <div className="grid sm:grid-cols-2 gap-6">
+                                    {section.items.map(item => (
+                                        <Card key={item.name} className="bg-secondary">
+                                            <CardHeader>
+                                                <CardTitle className="font-headline text-xl">{item.name}</CardTitle>
+                                            </CardHeader>
+                                            <CardContent>
+                                                <p className="text-muted-foreground">{item.description}</p>
+                                            </CardContent>
+                                        </Card>
+                                    ))}
+                                </div>
+                                {section.imageIds && section.imageIds.length > 0 && (
+                                    <div className="mt-8">
+                                        <h3 className="text-2xl font-headline font-bold mb-4">Examples</h3>
+                                        <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
+                                            {section.imageIds.map(imageId => {
+                                                const image = PlaceHolderImages.find(p => p.id === imageId);
+                                                return image ? (
+                                                    <div key={image.id} className="relative aspect-square overflow-hidden rounded-lg shadow-md group">
+                                                        <Image
+                                                            src={image.imageUrl}
+                                                            alt={image.description}
+                                                            fill
+                                                            className="object-cover group-hover:scale-105 transition-transform"
+                                                            data-ai-hint={image.imageHint}
+                                                        />
+                                                         <div className="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-end p-2">
+                                                            <p className="text-white text-xs font-semibold">{image.description}</p>
+                                                        </div>
+                                                    </div>
+                                                ) : null;
+                                            })}
+                                        </div>
+                                    </div>
+                                )}
                             </div>
                         </div>
                     </section>
@@ -111,3 +141,5 @@ export default function HardwarePage() {
         </div>
     );
 }
+
+    
