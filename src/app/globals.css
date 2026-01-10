@@ -5,47 +5,67 @@
 @layer base {
   :root {
     --background: 0 0% 100%;
-    --foreground: 240 10% 3.9%;
+    --foreground: 224 71.4% 4.1%;
     --card: 0 0% 100%;
-    --card-foreground: 240 10% 3.9%;
+    --card-foreground: 224 71.4% 4.1%;
     --popover: 0 0% 100%;
-    --popover-foreground: 240 10% 3.9%;
-    --primary: 24 96% 54%;
+    --popover-foreground: 224 71.4% 4.1%;
+    --primary: 25 95% 53%; /* Industrial Orange */
     --primary-foreground: 0 0% 100%;
-    --secondary: 240 4.8% 95.9%;
-    --secondary-foreground: 240 5.9% 10%;
-    --muted: 240 4.8% 95.9%;
-    --muted-foreground: 240 3.8% 46.1%;
-    --accent: 24 96% 96%;
-    --accent-foreground: 24 96% 30%;
+    --secondary: 220 13% 91%;
+    --secondary-foreground: 224 71.4% 4.1%;
+    --muted: 220 13% 91%;
+    --muted-foreground: 220 9% 46%;
+    --accent: 220 14.3% 95.9%;
+    --accent-foreground: 220 9% 46%;
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 0 0% 98%;
-    --border: 240 5.9% 90%;
-    --input: 240 5.9% 90%;
-    --ring: 24 96% 54%;
+    --border: 220 13% 89%;
+    --input: 220 13% 89%;
+    --ring: 25 95% 53%;
     --radius: 0.5rem;
+
+    /* Sidebar specific */
+    --sidebar-background: 224 71.4% 4.1%;
+    --sidebar-foreground: 0 0% 98%;
+    --sidebar-primary: 25 95% 53%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 215 27.9% 16.9%;
+    --sidebar-accent-foreground: 0 0% 98%;
+    --sidebar-border: 215 27.9% 16.9%;
+    --sidebar-ring: 25 95% 53%;
   }
  
   .dark {
-    --background: 240 10% 3.9%;
+    --background: 224 71.4% 4.1%;
     --foreground: 0 0% 98%;
-    --card: 240 10% 3.9%;
+    --card: 224 71.4% 4.1%;
     --card-foreground: 0 0% 98%;
-    --popover: 240 10% 3.9%;
+    --popover: 224 71.4% 4.1%;
     --popover-foreground: 0 0% 98%;
-    --primary: 24 96% 54%;
+    --primary: 25 95% 53%;
     --primary-foreground: 0 0% 100%;
-    --secondary: 240 3.7% 15.9%;
+    --secondary: 215 27.9% 16.9%;
     --secondary-foreground: 0 0% 98%;
-    --muted: 240 3.7% 15.9%;
-    --muted-foreground: 240 5% 64.9%;
-    --accent: 24 96% 15%;
-    --accent-foreground: 24 96% 90%;
+    --muted: 215 27.9% 16.9%;
+    --muted-foreground: 220 9% 46%;
+    --accent: 215 27.9% 16.9%;
+    --accent-foreground: 0 0% 98%;
     --destructive: 0 62.8% 30.6%;
     --destructive-foreground: 0 0% 98%;
-    --border: 240 3.7% 15.9%;
-    --input: 240 3.7% 15.9%;
-    --ring: 24 96% 54%;
+    --border: 215 27.9% 16.9%;
+    --input: 215 27.9% 16.9%;
+    --ring: 25 95% 53%;
+
+    /* Sidebar specific */
+    --sidebar-background: 224 71.4% 4.1%;
+    --sidebar-foreground: 0 0% 98%;
+    --sidebar-primary: 25 95% 53%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 215 27.9% 16.9%;
+    --sidebar-accent-foreground: 0 0% 98%;
+    --sidebar-border: 215 27.9% 16.9%;
+    --sidebar-ring: 25 95% 53%;
   }
 }
 
@@ -56,4 +76,42 @@
   body {
     @apply bg-background text-foreground;
   }
+}
+
+.prose {
+  --tw-prose-body: hsl(var(--foreground));
+  --tw-prose-headings: hsl(var(--foreground));
+  --tw-prose-lead: hsl(var(--muted-foreground));
+  --tw-prose-links: hsl(var(--primary));
+  --tw-prose-bold: hsl(var(--foreground));
+  --tw-prose-counters: hsl(var(--muted-foreground));
+  --tw-prose-bullets: hsl(var(--border));
+  --tw-prose-hr: hsl(var(--border));
+  --tw-prose-quotes: hsl(var(--foreground));
+  --tw-prose-quote-borders: hsl(var(--border));
+  --tw-prose-captions: hsl(var(--muted-foreground));
+  --tw-prose-code: hsl(var(--foreground));
+  --tw-prose-pre-code: hsl(var(--foreground));
+  --tw-prose-pre-bg: hsl(var(--secondary));
+  --tw-prose-th-borders: hsl(var(--border));
+  --tw-prose-td-borders: hsl(var(--border));
+}
+
+.dark .prose {
+    --tw-prose-invert-body: hsl(var(--foreground));
+    --tw-prose-invert-headings: hsl(var(--foreground));
+    --tw-prose-invert-lead: hsl(var(--muted-foreground));
+    --tw-prose-invert-links: hsl(var(--primary));
+    --tw-prose-invert-bold: hsl(var(--foreground));
+    --tw-prose-invert-counters: hsl(var(--muted-foreground));
+    --tw-prose-invert-bullets: hsl(var(--border));
+    --tw-prose-invert-hr: hsl(var(--border));
+    --tw-prose-invert-quotes: hsl(var(--foreground));
+    --tw-prose-invert-quote-borders: hsl(var(--border));
+    --tw-prose-invert-captions: hsl(var(--muted-foreground));
+    --tw-prose-invert-code: hsl(var(--foreground));
+    --tw-prose-invert-pre-code: hsl(var(--foreground));
+    --tw-prose-invert-pre-bg: hsl(var(--secondary));
+    --tw-prose-invert-th-borders: hsl(var(--border));
+    --tw-prose-invert-td-borders: hsl(var(--border));
 }

@@ -15,15 +15,15 @@ import {
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { useToast } from "@/hooks/use-toast";
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { Mail, Phone, MapPin, Sofa } from "lucide-react";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Mail, Phone, MapPin } from "lucide-react";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 
 const contactFormSchema = z.object({
   name: z.string().min(2, "Name must be at least 2 characters."),
   email: z.string().email("Please enter a valid email address."),
   phone: z.string().optional(),
-  inquiryType: z.enum(["general", "quote", "support", "partnership"]),
+  inquiryType: z.enum(["general", "quote", "support", "partnership", "product"]),
   message: z.string().min(10, "Please provide some details."),
 });
 
@@ -56,13 +56,12 @@ export default function ContactPage() {
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-headline font-bold">Contact Us</h1>
           <p className="mt-4 text-lg text-muted-foreground max-w-2xl mx-auto">
-            Have a question or need a quote for a project? We're here to help.
+            Have a question, need support, or want to discuss a project? We're here to help.
           </p>
         </div>
 
         <div className="grid md:grid-cols-2 gap-16 items-start">
             <div>
-                <h2 className="text-2xl font-headline font-bold mb-6">Get in Touch</h2>
                  <Card className="max-w-3xl mx-auto">
                     <CardHeader>
                         <CardTitle className="text-2xl font-headline">Send us a Message</CardTitle>
@@ -109,10 +108,11 @@ export default function ContactPage() {
                                                 </SelectTrigger>
                                                 </FormControl>
                                                 <SelectContent>
-                                                <SelectItem value="general">General Question</SelectItem>
-                                                <SelectItem value="quote">Design Consultation</SelectItem>
-                                                <SelectItem value="support">Customer Support</SelectItem>
-                                                <SelectItem value="partnership">Partnership Inquiry</SelectItem>
+                                                  <SelectItem value="general">General Question</SelectItem>
+                                                  <SelectItem value="quote">Project Quote</SelectItem>
+                                                  <SelectItem value="product">Product Information</SelectItem>
+                                                  <SelectItem value="support">Customer Support</SelectItem>
+                                                  <SelectItem value="partnership">Partnership Inquiry</SelectItem>
                                                 </SelectContent>
                                             </Select>
                                             <FormMessage />
@@ -153,7 +153,7 @@ export default function ContactPage() {
                                 <Phone className="h-8 w-8 text-primary"/>
                                 <div>
                                     <h3 className="font-semibold">By Phone</h3>
-                                    <p className="text-sm text-muted-foreground">Mon-Fri, 9am to 6pm</p>
+                                    <p className="text-sm text-muted-foreground">Mon-Sat, 7am to 7pm</p>
                                 </div>
                             </CardHeader>
                             <CardContent>
@@ -176,16 +176,16 @@ export default function ContactPage() {
                             <CardHeader className="flex flex-row items-center gap-4">
                                 <MapPin className="h-8 w-8 text-primary"/>
                                 <div>
-                                    <h3 className="font-semibold">Main Showroom</h3>
+                                    <h3 className="font-semibold">Main Store & Showroom</h3>
                                      <p className="text-sm text-muted-foreground">Visit us in person</p>
                                 </div>
                             </CardHeader>
                              <CardContent>
                                 <address className="not-italic text-lg">
-                                    123 Design Ave<br/>
-                                    Builderville, ST 12345
+                                    123 Build Well Rd<br/>
+                                    Constructville, ST 12345
                                 </address>
-                            </CardContent>
+                             </CardContent>
                         </Card>
                     </div>
                 </div>

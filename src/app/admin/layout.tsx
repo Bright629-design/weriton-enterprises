@@ -9,12 +9,12 @@ import {
   SidebarMenuButton,
   SidebarInset,
 } from '@/components/ui/sidebar';
-import { Sofa, LayoutDashboard, ShoppingBag, Newspaper } from 'lucide-react';
+import { Construction, LayoutDashboard, Wrench, Newspaper } from 'lucide-react';
 import Link from 'next/link';
 
 const adminNavItems = [
   { href: '/admin', label: 'Dashboard', icon: LayoutDashboard },
-  { href: '/admin/products', label: 'Products', icon: ShoppingBag },
+  { href: '/admin/products', label: 'Products', icon: Wrench },
   { href: '/admin/blog', label: 'Blog Posts', icon: Newspaper },
 ];
 
@@ -24,7 +24,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
       <Sidebar>
         <SidebarHeader>
           <div className="flex items-center gap-2 px-2">
-              <Sofa className="h-6 w-6 text-primary" />
+              <Construction className="h-6 w-6 text-primary" />
               <h2 className="text-lg font-headline font-semibold">Admin Panel</h2>
           </div>
         </SidebarHeader>

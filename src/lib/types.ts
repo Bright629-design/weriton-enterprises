@@ -22,3 +22,13 @@ export type BlogPost = {
   author: string;
   date: string;
 };
+
+export type Project = {
+  id: string;
+  title: string;
+  category: string;
+  description: string;
+  imageId: string;
+  beforeImageId?: string;
+  afterImageId?: string;
+};

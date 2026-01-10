@@ -16,7 +16,7 @@ export function ProductCard({ product }: ProductCardProps) {
 
   return (
     <Card className="flex flex-col overflow-hidden h-full transition-all duration-300 hover:shadow-xl hover:-translate-y-1">
-      <Link href={`/products/${product.id}`} className="flex flex-col h-full group bg-card">
+      <Link href={`/hardware#${product.category}`} className="flex flex-col h-full group bg-card">
         <div className="relative overflow-hidden">
           {productImage && (
             <Image
@@ -30,7 +30,7 @@ export function ProductCard({ product }: ProductCardProps) {
           )}
         </div>
         <CardHeader className="p-4">
-          {category && <Badge variant="outline" className="w-fit mb-2">{category.name}</Badge>}
+          {category && <Badge variant="secondary" className="w-fit mb-2">{category.name}</Badge>}
           <CardTitle className="text-lg font-headline line-clamp-2 h-[2.5em]">{product.name}</CardTitle>
         </CardHeader>
         <CardContent className="p-4 pt-0 flex-grow">

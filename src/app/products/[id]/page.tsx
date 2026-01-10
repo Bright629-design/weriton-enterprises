@@ -21,7 +21,7 @@ export default function ProductDetailPage({ params }: { params: { id: string } }
     <div className="container py-12 md:py-16">
       <div className="mb-8">
         <Button variant="outline" asChild>
-          <Link href="/products">
+          <Link href="/hardware">
             <ArrowLeft className="mr-2 h-4 w-4" />
             Back to Products
           </Link>
@@ -41,7 +41,7 @@ export default function ProductDetailPage({ params }: { params: { id: string } }
         </div>
         <div>
           {category && (
-            <Link href={`/products?category=${category.id}`}>
+            <Link href={`/hardware#${category.id}`}>
               <Badge variant="secondary" className="mb-2">{category.name}</Badge>
             </Link>
           )}
@@ -51,9 +51,11 @@ export default function ProductDetailPage({ params }: { params: { id: string } }
           )}
           <p className="text-lg text-muted-foreground mb-6">{product.description}</p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <Button size="lg">
-              <Plus className="mr-2 h-5 w-5" />
-              Add to Quote
+            <Button size="lg" asChild>
+              <Link href="/quote-request">
+                <Plus className="mr-2 h-5 w-5" />
+                Add to Quote
+              </Link>
             </Button>
             <Button size="lg" variant="outline" asChild>
                 <a href={`https://wa.me/1234567890?text=I'm%20interested%20in%20the%20${encodeURIComponent(product.name)}`} target="_blank" rel="noopener noreferrer">
