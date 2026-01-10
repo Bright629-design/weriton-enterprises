@@ -7,6 +7,24 @@
       "imageHint": "hardware store"
     },
     {
+      "id": "hero-renovation",
+      "description": "A skilled contractor installing new kitchen cabinets in a home renovation project.",
+      "imageUrl": "https://images.unsplash.com/photo-1461958509224-2c6dc67c2934?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxraXRjaGVuJTIwcmVub3ZhdGlvbnxlbnwwfHx8fDE3ODA4ODg1MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kitchen renovation"
+    },
+    {
+      "id": "hero-design",
+      "description": "An elegant and modern living room with stylish furniture and thoughtful decor, showcasing interior design.",
+      "imageUrl": "https://images.unsplash.com/photo-1615874959474-d609969a20ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBsaXZpbmclMjByb29tfGVufDB8fHx8MTc2Nzk5OTIwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern living"
+    },
+    {
+      "id": "hero-materials",
+      "description": "A warehouse neatly stocked with various construction materials like lumber, pipes, and sheeting.",
+      "imageUrl": "https://images.unsplash.com/photo-1572922180423-d9d1e129a0f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb25zdHJ1Y3Rpb24lMjBtYXRlcmlhbHN8ZW58MHx8fHwxNzgwMDAyMTY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "construction materials"
+    },
+    {
       "id": "product-drill",
       "description": "A powerful cordless drill on a workbench.",
       "imageUrl": "https://images.unsplash.com/photo-1629837039049-2c7395e804d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3dlciUyMGRyaWxsfGVufDB8fHx8MTc2Nzk5OTIwNHww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -63,31 +81,31 @@
     {
       "id": "project-kitchen-after",
       "description": "A beautiful, modern renovated kitchen.",
-      "imageUrl": "https://images.unsplash.com/photo-1600585152220-90363fe7e115?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBraXRjaGVufGVufDB8fHx8MTc2Nzk5OTI3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1600585152220-90363fe7e115?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBraXRjaGVufGVufDB8fHx8MTc2Nzk5OTI3N3ww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "modern kitchen"
     },
     {
       "id": "project-office-before",
       "description": "An empty office space before renovation.",
-      "imageUrl": "https://images.unsplash.com/photo-1554939761-42a42312a002?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlbXB0eSUyMG9mZmljZXxlbnwwfHx8fDE3Nzk5OTMwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1554939761-42a42312a002?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlbXB0eSUyMG9mZmljZXxlbnwwfHx8fDE3Nzk5OTMwMXww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "empty office"
     },
     {
       "id": "project-office-after",
       "description": "A modern, bustling open-plan office.",
-      "imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBvZmZpY2V8ZW58MHx8fHwxNzY3OTk5MzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBvZmZpY2V8ZW58MHx8fHwxNzY3OTk5MzAzfDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "modern office"
     },
     {
       "id": "project-bathroom-before",
       "description": "A dated bathroom in need of a remodel.",
-      "imageUrl": "https://images.unsplash.com/photo-1603959108355-9b7a022194b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxvbGQlMjBiYXRocm9vbXxlbnwwfHx8fDE3Nzk5OTMwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1603959108355-9b7a022194b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxvbGQlMjBiYXRocm9vbXxlbnwwfHx8fDE3Nzk5OTMwMXww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "old bathroom"
     },
     {
       "id": "project-bathroom-after",
       "description": "A luxurious and modern renovated bathroom.",
-      "imageUrl": "https://images.unsplash.com/photo-1603952744744-933c94892cda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjBiYXRocm9vbXxlbnwwfHx8fDE3Nzk5OTMwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1603952744744-933c94892cda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjBiYXRocm9vbXxlbnwwfHx8fDE3Nzk5OTMwMXww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "luxury bathroom"
     },
     {
