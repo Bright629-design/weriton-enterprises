@@ -31,6 +31,7 @@ const values = [
 export default function AboutPage() {
     const historyImage = PlaceHolderImages.find(p => p.id === 'about-history');
     const teamImage = PlaceHolderImages.find(p => p.id === 'about-team');
+    const ceoImage = PlaceHolderImages.find(p => p.id === 'ceo-justus');
 
     return (
         <div className="bg-background">
@@ -38,11 +39,11 @@ export default function AboutPage() {
                 <div className="text-center mb-12">
                     <h1 className="text-4xl md:text-5xl font-headline font-bold">About Weriton Enterprises</h1>
                     <p className="mt-4 text-lg text-muted-foreground max-w-3xl mx-auto">
-                        Your trusted partner for comprehensive hardware solutions, construction materials, and creative design excellence since 1995.
+                        Your trusted partner for comprehensive hardware solutions, construction materials, and creative design excellence since 2015.
                     </p>
                 </div>
 
-                <section id="history" className="grid md:grid-cols-2 gap-12 items-center">
+                <section id="history" className="grid md:grid-cols-2 gap-12 items-center mb-16 md:mb-24">
                     {historyImage && (
                         <div className="rounded-lg overflow-hidden shadow-lg">
                             <Image
@@ -58,13 +59,42 @@ export default function AboutPage() {
                     <div>
                         <h2 className="text-3xl md:text-4xl font-headline font-bold mb-4">Our Story</h2>
                         <p className="text-muted-foreground text-lg mb-4">
-                            Founded in 1995 by Weriton Costa, Weriton Enterprises started as a small, local hardware store with a simple mission: to provide quality tools and materials to the community's builders and craftspeople.
+                            Founded in 2015 by Justus, Weriton Enterprises started as a small, local hardware store with a simple mission: to provide quality tools and materials to the community's builders and craftspeople.
                         </p>
                         <p className="text-muted-foreground text-lg">
-                            Over the decades, we've grown into a comprehensive solution provider, expanding our offerings to include a full range of construction supplies, and eventually, a dedicated design and renovation division. While our services have evolved, our founding commitment to quality and customer satisfaction remains unchanged.
+                            Over the years, we've grown into a comprehensive solution provider, expanding our offerings to include a full range of construction supplies, and eventually, a dedicated design and renovation division. While our services have evolved, our founding commitment to quality and customer satisfaction remains unchanged.
                         </p>
                     </div>
                 </section>
+                
+                <section id="ceo" className="py-16 md:py-24 bg-secondary rounded-lg">
+                    <div className="container grid md:grid-cols-2 gap-12 items-center">
+                        {ceoImage && (
+                            <div className="rounded-lg overflow-hidden shadow-lg aspect-square">
+                                <Image
+                                    src={ceoImage.imageUrl}
+                                    alt={ceoImage.description}
+                                    width={800}
+                                    height={800}
+                                    className="object-cover w-full h-full"
+                                    data-ai-hint={ceoImage.imageHint}
+                                />
+                            </div>
+                        )}
+                        <div>
+                            <h2 className="text-3xl md:text-4xl font-headline font-bold mb-4">A Word from Our CEO</h2>
+                            <p className="text-muted-foreground text-lg mb-4">
+                                "Welcome to Weriton Enterprises. When I started this company, my goal was to build more than just a store; I wanted to build a partner for our community. A place where professionals and homeowners alike could find not just the best materials, but also the expertise and support to bring their projects to life."
+                            </p>
+                            <p className="text-muted-foreground text-lg mb-6">
+                                "Today, I'm proud of the team we've built and the comprehensive services we offer. Whether you're laying a foundation or choosing the perfect paint color, we are here to ensure your success. Thank you for trusting us with your vision."
+                            </p>
+                            <p className="font-semibold text-xl font-headline">Justus</p>
+                            <p className="text-muted-foreground">Founder & CEO, Weriton Enterprises</p>
+                        </div>
+                    </div>
+                </section>
+
 
                 <section id="mission-vision" className="py-16 md:py-24">
                     <div className="grid md:grid-cols-2 gap-8">
