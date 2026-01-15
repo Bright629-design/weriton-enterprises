@@ -1,5 +1,6 @@
 "use client";
 
+import * as React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { PlaceHolderImages } from '@/lib/placeholder-images';
@@ -57,16 +58,20 @@ const whyUsPoints = [
 ]
 
 export default function Home() {
-  const heroImages = PlaceHolderImages.filter(p => p.id.startsWith('hero'));
+  const heroImages = PlaceHolderImages.filter(p => p.id.startsWith('hero-'));
   const designImage = PlaceHolderImages.find(p => p.id === 'design-services');
   const renovationImage = PlaceHolderImages.find(p => p.id === 'renovation-services');
+  
+  const plugin = React.useRef(
+    Autoplay({ delay: 5000, stopOnInteraction: false, stopOnMouseEnter: true })
+  );
 
   return (
     <div className="flex flex-col">
       <section className="relative h-[60vh] md:h-[70vh] w-full flex items-center justify-center text-center text-white overflow-hidden">
         <Carousel 
           className="absolute inset-0 w-full h-full"
-          plugins={[Autoplay({ delay: 5000, stopOnInteraction: false })]}
+          plugins={[plugin.current]}
           opts={{ loop: true }}
         >
           <CarouselContent className="h-full">
