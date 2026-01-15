@@ -64,7 +64,7 @@ export default function Home() {
   const renovationImage = PlaceHolderImages.find(p => p.id === 'renovation-services');
   
   const plugin = React.useRef(
-    Autoplay({ delay: 5000, stopOnInteraction: false, stopOnMouseEnter: true })
+    Autoplay({ delay: 5000, stopOnInteraction: false, stopOnMouseEnter: false })
   );
 
   return (
