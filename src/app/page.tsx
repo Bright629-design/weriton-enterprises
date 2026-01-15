@@ -1,3 +1,4 @@
+
 "use client";
 
 import * as React from 'react';
@@ -75,14 +76,14 @@ export default function Home() {
           opts={{ loop: true }}
         >
           <CarouselContent className="h-full">
-            {heroImages.map(image => (
+            {heroImages.map((image, index) => (
               <CarouselItem key={image.id} className="h-full">
                 <Image
                   src={image.imageUrl}
                   alt={image.description}
                   fill
                   className="object-cover"
-                  priority={heroImages.indexOf(image) === 0}
+                  priority={index === 0}
                   data-ai-hint={image.imageHint}
                 />
               </CarouselItem>
@@ -278,3 +279,5 @@ export default function Home() {
     </div>
   );
 }
+
+    
