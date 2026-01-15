@@ -75,25 +75,25 @@
     {
       "id": "project-kitchen-before",
       "description": "An old, dated kitchen before renovation.",
-      "imageUrl": "https://images.unsplash.com/photo-1567355314515-0814f99fb056?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxvbGQlMjBraXRjaGVufGVufDB8fHx8MTc2Nzk5OTI3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1567355314515-0814f99fb056?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxvbGQlMjBraXRjaGVufGVufDB8fHx8MTc2Nzk5OTI3N3ww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "old kitchen"
     },
     {
       "id": "project-kitchen-after",
       "description": "A beautiful, modern renovated kitchen.",
-      "imageUrl": "https://images.unsplash.com/photo-1600585152220-90363fe7e115?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBraXRjaGVufGVufDB8fHx8MTc2Nzk5OTI3N3ww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1600585152220-90363fe7e115?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBraXRjaGVufGVufDB8fHx8MTc2Nzk5OTI3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "modern kitchen"
     },
     {
       "id": "project-office-before",
       "description": "An empty office space before renovation.",
-      "imageUrl": "https://images.unsplash.com/photo-1554939761-42a42312a002?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlbXB0eSUyMG9mZmljZXxlbnwwfHx8fDE3Nzk5OTMwMXww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1554939761-42a42312a002?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlbXB0eSUyMG9mZmljZXxlbnwwfHx8fDE3Nzk5OTMwMXww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "empty office"
     },
     {
       "id": "project-office-after",
       "description": "A modern, bustling open-plan office.",
-      "imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBvZmZpY2V8ZW58MHx8fHwxNzY3OTk5MzAzfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBvZmZpY2V8ZW58MHx8fHwxNzY3OTk5MzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "modern office"
     },
     {
@@ -105,13 +105,13 @@
     {
       "id": "project-bathroom-after",
       "description": "A luxurious and modern renovated bathroom.",
-      "imageUrl": "https://images.unsplash.com/photo-1603952744744-933c94892cda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjBiYXRocm9vbXxlbnwwfHx8fDE3Nzk5OTMwMXww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1603952744744-933c94892cda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjBiYXRocm9vbXxlbnwwfHx8fDE3Nzk5OTMwMXww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "luxury bathroom"
     },
     {
       "id": "project-exterior-before",
       "description": "A suburban house with an outdated exterior.",
-      "imageUrl": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdWJ1cmJhbiUyMGhvdXNlfGVufDB8fHx8MTc2Nzk5OTMwMXww&ixlibrb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdWJ1cmJhbiUyMGhvdXNlfGVufDB8fHx8MTc2Nzk5OTMwMXww&ixlib.rb-4.1.0&q=80&w=1080",
       "imageHint": "suburban house"
     },
     {
@@ -135,7 +135,7 @@
     {
       "id": "ceo-justus",
       "description": "Portrait of a confident CEO named Justus.",
-      "imageUrl": "https://images.unsplash.com/photo-1561515075-551b90143acb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjZW8lMjBwb3J0cmFpdHxlbnwwfHx8fDE3Njc5OTQ5MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1561515075-551b90143acb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjZW8lMjBwb3J0cmFpdHxlbnwwfHx8fDE3Njc5OTQ5MTV8MA&ixlib.rb-4.1.0&q=80&w=1080",
       "imageHint": "ceo portrait"
     },
     {
