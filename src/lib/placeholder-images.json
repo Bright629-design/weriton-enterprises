@@ -3,37 +3,37 @@
     {
       "id": "hero-1",
       "description": "A stunning, modern living room with high ceilings and luxurious furniture, bathed in natural light.",
-      "imageUrl": "https://images.unsplash.com/photo-1628744876497-eb30460be9f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtb2Rlcm4lMjBsaXZpbmclMjByb29tfGVufDB8fHx8MTc2ODQ0MjU0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1631679706909-1844bbd07221?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBsaXZpbmclMjByb29tfGVufDB8fHx8MTc2ODQ0MjU0NHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "modern living room"
     },
     {
       "id": "hero-2",
       "description": "A skilled contractor meticulously installing a high-end kitchen countertop.",
-      "imageUrl": "https://images.unsplash.com/photo-1686023858213-9653d3248fdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxraXRjaGVuJTIwaW5zdGFsbGF0aW9ufGVufDB8fHx8MTc2ODUwNDY4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1580642320204-a8e77935cc7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxraXRjaGVuJTIwaW5zdGFsbGF0aW9ufGVufDB8fHx8MTc2ODUwNDY4OXww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "kitchen installation"
     },
     {
       "id": "hero-3",
       "description": "An architectural shot of a beautifully designed modern home exterior at dusk.",
-      "imageUrl": "https://images.unsplash.com/photo-1521713362244-1b5e5d150b29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtb2Rlcm4lMjBhcmNoaXRlY3R1cmV8ZW58MHx8fHwxNzY4NDcyNjY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1554793000-245d3a3c2a51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtb2Rlcm4lMjBhcmNoaXRlY3R1cmV8ZW58MHx8fHwxNzY4NDcyNjY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "modern architecture"
     },
     {
       "id": "hero-4",
       "description": "A well-organized, premium hardware store aisle with a wide selection of tools neatly displayed.",
-      "imageUrl": "https://images.unsplash.com/photo-1631856955350-77f4023dff2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxoYXJkd2FyZSUyMHN0b3JlfGVufDB8fHx8MTc2ODUwMzk5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1602052793312-b99c2a9ee797?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoYXJkd2FyZSUyMHN0b3JlfGVufDB8fHx8MTc2ODUwMzk5MXww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "hardware store"
     },
     {
       "id": "product-drill",
       "description": "A powerful cordless drill on a workbench.",
-      "imageUrl": "https://images.unsplash.com/photo-1592054286113-649ba108e968?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwb3dlciUyMGRyaWxsfGVufDB8fHx8MTc2ODQ2NzU2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1682361744037-45d54856d8a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwb3dlciUyMGRyaWxsfGVufDB8fHx8MTc2ODQ2NzU2NXww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "power drill"
     },
     {
       "id": "product-paint",
       "description": "Cans of paint with color swatches.",
-      "imageUrl": "https://images.unsplash.com/photo-1660521246573-54796e6161b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwYWludCUyMGNhbnN8ZW58MHx8fHwxNzY4Mzk5MjY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1616267268965-83384bbbeed9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGFpbnQlMjBjYW5zfGVufDB8fHx8MTc2ODM5OTI2NHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "paint cans"
     },
     {
@@ -45,49 +45,49 @@
     {
       "id": "product-lock",
       "description": "A modern smart lock on a front door.",
-      "imageUrl": "https://images.unsplash.com/photo-1584131688247-27fe529d6717?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzbWFydCUyMGxvY2t8ZW58MHx8fHwxNzY4NTAzOTkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1707167144705-74c92ea02abb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzbWFydCUyMGxvY2t8ZW58MHx8fHwxNzY4NTAzOTkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "smart lock"
     },
     {
       "id": "blog-tools",
       "description": "A collection of various power tools on a workbench.",
-      "imageUrl": "https://images.unsplash.com/photo-1504148455328-c376907d081c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwb3dlciUyMHRvb2xzfGVufDB8fHx8MTc2ODQzNjY4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1645651964715-d200ce0939cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwb3dlciUyMHRvb2xzfGVufDB8fHx8MTc2ODQzNjY4MHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "power tools"
     },
     {
       "id": "blog-design-trends",
       "description": "A stylish modern living room interior that showcases new design trends.",
-      "imageUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bW9kZXJuJTIwbGl2aW5nJTIwcm9vbXxlbnwwfHx8fDE3Njg0NDI1NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1724582586529-62622e50c0b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtb2Rlcm4lMjBsaXZpbmclMjByb29tfGVufDB8fHx8MTc2ODQ0MjU0NHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "modern living room"
     },
     {
       "id": "design-services",
       "description": "An interior designer working on blueprints and mood boards in a bright studio.",
-      "imageUrl": "https://images.unsplash.com/photo-1614461059234-a26df6cb9ab8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxpbnRlcmlvciUyMGRlc2lnbmVyfGVufDB8fHx8MTc2ODQ3NDA2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1664638413302-d1ca29ac885b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbnRlcmlvciUyMGRlc2lnbmVyfGVufDB8fHx8MTc2ODQ3NDA2OHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "interior designer"
     },
     {
       "id": "renovation-services",
       "description": "A construction worker doing renovation on a home interior.",
-      "imageUrl": "https://images.unsplash.com/photo-1599619585752-c3edb42a414c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxob21lJTIwcmVub3ZhdGlvbnxlbnwwfHx8fDE3Njg1MDM5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1505798577917-a65157d3320a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxob21lJTIwcmVub3ZhdGlvbnxlbnwwfHx8fDE3Njg1MDM5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "home renovation"
     },
     {
       "id": "project-kitchen-before",
       "description": "An old, dated kitchen before renovation.",
-      "imageUrl": "https://images.unsplash.com/photo-1661458079058-dff4d487c7f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8b2xkJTIwa2l0Y2hlbnxlbnwwfHx8fDE3Njg1MDM5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1523039031846-6b3f39302cb8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxvbGQlMjBraXRjaGVufGVufDB8fHx8MTc2ODUwMzk5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "old kitchen"
     },
     {
       "id": "project-kitchen-after",
       "description": "A beautiful, modern renovated kitchen.",
-      "imageUrl": "https://images.unsplash.com/photo-1717429541792-5c59021d6ceb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtb2Rlcm4lMjBraXRjaGVufGVufDB8fHx8MTc2ODUwMzk5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1682888813913-e13f18692019?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtb2Rlcm4lMjBraXRjaGVufGVufDB8fHx8MTc2ODUwMzk5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "modern kitchen"
     },
     {
       "id": "project-office-before",
       "description": "An empty office space before renovation.",
-      "imageUrl": "https://images.unsplash.com/photo-1571055931484-22dce9d6c510?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZW1wdHklMjBvZmZpY2V8ZW58MHx8fHwxNzY4NTAzOTkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1503423571797-2d2bb372094a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxlbXB0eSUyMG9mZmljZXxlbnwwfHx8fDE3Njg1MDM5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "empty office"
     },
     {
@@ -99,67 +99,67 @@
     {
       "id": "project-bathroom-before",
       "description": "A dated bathroom in need of a remodel.",
-      "imageUrl": "https://images.unsplash.com/photo-1595579987159-32ca7b85e0e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxvbGQlMjBiYXRocm9vbXxlbnwwfHx8fDE3Njg1MDM5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1630840450974-7c7ddad8bdfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxvbGQlMjBiYXRocm9vbXxlbnwwfHx8fDE3Njg1MDM5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "old bathroom"
     },
     {
       "id": "project-bathroom-after",
       "description": "A luxurious and modern renovated bathroom.",
-      "imageUrl": "https://images.unsplash.com/photo-1638799869566-b17fa794c4de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxsdXh1cnklMjBiYXRocm9vbXxlbnwwfHx8fDE3Njg0NjgzMTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1631889993959-41b4e9c6e3c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxsdXh1cnklMjBiYXRocm9vbXxlbnwwfHx8fDE3Njg0NjgzMTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "luxury bathroom"
     },
     {
       "id": "project-exterior-before",
       "description": "A suburban house with an outdated exterior.",
-      "imageUrl": "https://images.unsplash.com/photo-1584738766473-61c083514bf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c3VidXJiYW4lMjBob3VzZXxlbnwwfHx8fDE3Njg0NjY1NTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1605146768851-eda79da39897?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzdWJ1cmJhbiUyMGhvdXNlfGVufDB8fHx8MTc2ODQ2NjU1OHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "suburban house"
     },
     {
       "id": "project-exterior-after",
       "description": "A house with a modern and fresh exterior look.",
-      "imageUrl": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtb2Rlcm4lMjBob3VzZXxlbnwwfHx8fDE3Njg1MDA2MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1628012209120-d9db7abf7eab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtb2Rlcm4lMjBob3VzZXxlbnwwfHx8fDE3Njg1MDA2MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "modern house"
     },
     {
       "id": "about-team",
       "description": "A diverse and professional team of employees.",
-      "imageUrl": "https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwcm9mZXNzaW9uYWwlMjB0ZWFtfGVufDB8fHx8MTc2ODUwMzk5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwcm9mZXNzaW9uYWwlMjB0ZWFtfGVufDB8fHx8MTc2ODUwMzk5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "professional team"
     },
     {
       "id": "about-history",
       "description": "A vintage photo of a workshop or storefront.",
-      "imageUrl": "https://images.unsplash.com/photo-1600476119517-e08f9fa0545a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx2aW50YWdlJTIwd29ya3Nob3B8ZW58MHx8fHwxNzY4NDk5MTA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1718939041087-69074ed42c23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx2aW50YWdlJTIwd29ya3Nob3B8ZW58MHx8fHwxNzY4NDk5MTA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "vintage workshop"
     },
     {
       "id": "ceo-justus",
       "description": "Portrait of a confident CEO named Justus.",
-      "imageUrl": "https://images.unsplash.com/photo-1549440270-31965e3bfde8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjZW8lMjBwb3J0cmFpdHxlbnwwfHx8fDE3Njg1MDM5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1551862390-7894b509f8ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjZW8lMjBwb3J0cmFpdHxlbnwwfHx8fDE3Njg1MDM5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "ceo portrait"
     },
     {
       "id": "materials-banner",
       "description": "A warehouse filled with various construction materials.",
-      "imageUrl": "https://images.unsplash.com/photo-1518096495978-56aa98bcd990?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjb25zdHJ1Y3Rpb24lMjBtYXRlcmlhbHN8ZW58MHx8fHwxNzY4NTAzOTkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1672541298906-4aeb3edd3520?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb25zdHJ1Y3Rpb24lMjBtYXRlcmlhbHN8ZW58MHx8fHwxNzY4NTAzOTkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "construction materials"
     },
     {
       "id": "finishing-banner",
       "description": "A person applying a finishing coat to a wall.",
-      "imageUrl": "https://images.unsplash.com/photo-1622542796254-5b9c46ab0d2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGFpbnRpbmclMjB3YWxsfGVufDB8fHx8MTc2ODQzNzYzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1525909002-1b05e0c869d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwYWludGluZyUyMHdhbGx8ZW58MHx8fHwxNzY4NDM3NjMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "painting wall"
     },
     {
       "id": "design-banner",
       "description": "A sophisticated and modern architectural blueprint.",
-      "imageUrl": "https://images.unsplash.com/photo-1721244654392-9c912a6eb236?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhcmNoaXRlY3R1cmUlMjBibHVlcHJpbnR8ZW58MHx8fHwxNzY4NTAzOTkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1742415106102-77bbfe14b872?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhcmNoaXRlY3R1cmUlMjBibHVlcHJpbnR8ZW58MHx8fHwxNzY4NTAzOTkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "architecture blueprint"
     },
     {
       "id": "renovation-banner",
       "description": "A construction site with a half-renovated room.",
-      "imageUrl": "https://images.unsplash.com/photo-1513467535987-fd81bc7d62f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxpbnRlcmlvciUyMGNvbnN0cnVjdGlvbnxlbnwwfHx8fDE3Njg1MDM5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1698889670684-0f4a7aa7cba8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxpbnRlcmlvciUyMGNvbnN0cnVjdGlvbnxlbnwwfHx8fDE3Njg1MDM5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "interior construction"
     },
     {
@@ -171,121 +171,121 @@
     {
       "id": "testimonials-banner",
       "description": "A collage of diverse, happy customer faces.",
-      "imageUrl": "https://images.unsplash.com/photo-1556745753-b2904692b3cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxoYXBweSUyMGN1c3RvbWVyc3xlbnwwfHx8fDE3Njg0NjM2MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1576267423445-b2e0074d68a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxoYXBweSUyMGN1c3RvbWVyc3xlbnwwfHx8fDE3Njg0NjM2MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "happy customers"
     },
     {
       "id": "blog-banner",
       "description": "A person reading a blog or article on a tablet in a cozy setting.",
-      "imageUrl": "https://images.unsplash.com/photo-1546098072-76d153d38ef3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxyZWFkaW5nJTIwYmxvZ3xlbnwwfHx8fDE3Njg1MDM5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxyZWFkaW5nJTIwYmxvZ3xlbnwwfHx8fDE3Njg1MDM5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "reading blog"
     },
     {
       "id": "mat-cement",
       "description": "Bags of cement stacked on a pallet.",
-      "imageUrl": "https://images.unsplash.com/photo-1523293915678-d126868e96f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjZW1lbnQlMjBiYWdzfGVufDB8fHx8MTc2ODQ3MzQ4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1763479168547-40aa39986687?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjZW1lbnQlMjBiYWdzfGVufDB8fHx8MTc2ODQ3MzQ4MHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "cement bags"
     },
     {
       "id": "mat-aggregates",
       "description": "A pile of construction aggregates like gravel and sand.",
-      "imageUrl": "https://images.unsplash.com/photo-1747103068995-e6db935a922b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb25zdHJ1Y3Rpb24lMjBhZ2dyZWdhdGVzfGVufDB8fHx8MTc2ODUwMzk5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1524391697575-8ea102803604?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjb25zdHJ1Y3Rpb24lMjBhZ2dyZWdhdGVzfGVufDB8fHx8MTc2ODUwMzk5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "construction aggregates"
     },
     {
       "id": "mat-steel",
       "description": "A bundle of steel rebar for concrete reinforcement.",
-      "imageUrl": "https://images.unsplash.com/photo-1761479867761-7a8b11f54449?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzdGVlbCUyMHJlYmFyfGVufDB8fHx8MTc2ODQ3MzQ4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1763771420746-c75fefab51b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzdGVlbCUyMHJlYmFyfGVufDB8fHx8MTc2ODQ3MzQ4MHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "steel rebar"
     },
     {
       "id": "mat-timber",
       "description": "Stacks of cut timber and wooden boards.",
-      "imageUrl": "https://images.unsplash.com/photo-1710579682386-aeff3f831b7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0aW1iZXIlMjBib2FyZHN8ZW58MHx8fHwxNzY4NTAzOTkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1714913163210-f2ef311a8235?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0aW1iZXIlMjBib2FyZHN8ZW58MHx8fHwxNzY4NTAzOTkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "timber boards"
     },
     {
       "id": "mat-roofing",
       "description": "Close-up of modern roofing tiles.",
-      "imageUrl": "https://images.unsplash.com/photo-1583504570758-86f154962142?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxyb29maW5nJTIwdGlsZXN8ZW58MHx8fHwxNzY4NTAzOTkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1646297209344-a4e3b464473e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cm9vZmluZyUyMHRpbGVzfGVufDB8fHx8MTc2ODUwMzk5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "roofing tiles"
     },
     {
       "id": "mat-bricks",
       "description": "A pallet of red construction bricks.",
-      "imageUrl": "https://images.unsplash.com/photo-1560208889-ead4246e57c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxyZWQlMjBicmlja3N8ZW58MHx8fHwxNzY4NDAwMzU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1593347021150-f0528ea86345?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cmVkJTIwYnJpY2tzfGVufDB8fHx8MTc2ODQwMDM1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "red bricks"
     },
     {
       "id": "elec-cables",
       "description": "Spools of different colored electrical cables.",
-      "imageUrl": "https://images.unsplash.com/photo-1563068261-13ebbdf16aa3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxlbGVjdHJpY2FsJTIwY2FibGVzfGVufDB8fHx8MTc2ODUwMzk5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1767406505091-edc0cd7940fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxlbGVjdHJpY2FsJTIwY2FibGVzfGVufDB8fHx8MTc2ODUwMzk5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "electrical cables"
     },
     {
       "id": "elec-switches",
       "description": "A variety of modern light switches and electrical sockets.",
-      "imageUrl": "https://images.unsplash.com/photo-1694412131091-14c311e703e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxsaWdodCUyMHN3aXRjaGVzfGVufDB8fHx8MTc2ODUwMzk5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1623707430101-9e74cefe05e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsaWdodCUyMHN3aXRjaGVzfGVufDB8fHx8MTc2ODUwMzk5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "light switches"
     },
     {
       "id": "elec-lighting",
       "description": "An assortment of LED bulbs and modern light fixtures.",
-      "imageUrl": "https://images.unsplash.com/photo-1526116638181-d787e552d669?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxMRUQlMjBsaWdodGluZ3xlbnwwfHx8fDE3Njg1MDM5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1589530006797-d67347f18caa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxMRUQlMjBsaWdodGluZ3xlbnwwfHx8fDE3Njg1MDM5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "LED lighting"
     },
     {
       "id": "elec-solar",
       "description": "Solar panels installed on a roof.",
-      "imageUrl": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c29sYXIlMjBwYW5lbHN8ZW58MHx8fHwxNzY4NDAxMzgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzb2xhciUyMHBhbmVsc3xlbnwwfHx8fDE3Njg0MDEzODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "solar panels"
     },
     {
       "id": "elec-conduit",
       "description": "PVC and metal electrical conduits and fittings.",
-      "imageUrl": "https://images.unsplash.com/photo-1692343421570-649b993c28e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlbGVjdHJpY2FsJTIwY29uZHVpdHxlbnwwfHx8fDE3Njg1MDM5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1568988710889-d67f6daac588?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxlbGVjdHJpY2FsJTIwY29uZHVpdHxlbnwwfHx8fDE3Njg1MDM5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "electrical conduit"
     },
     {
       "id": "elec-breakers",
       "description": "An open electrical panel showing circuit breakers.",
-      "imageUrl": "https://images.unsplash.com/photo-1761251947512-a293e482919f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjaXJjdWl0JTIwYnJlYWtlcnN8ZW58MHx8fHwxNzY4NTAzOTkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1544724569-5f546fd6f2b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaXJjdWl0JTIwYnJlYWtlcnN8ZW58MHx8fHwxNzY4NTAzOTkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "circuit breakers"
     },
     {
       "id": "plumb-pipes",
       "description": "A collection of copper and PVC pipes and fittings.",
-      "imageUrl": "https://images.unsplash.com/photo-1611236544238-2d272eff2cd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwbHVtYmluZyUyMHBpcGVzfGVufDB8fHx8MTc2ODQ3MzQ4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1605313294941-ea43850d9de5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwbHVtYmluZyUyMHBpcGVzfGVufDB8fHx8MTc2ODQ3MzQ4MHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "plumbing pipes"
     },
     {
       "id": "plumb-taps",
       "description": "A display of modern kitchen and bathroom taps.",
-      "imageUrl": "https://images.unsplash.com/photo-1646592491435-6bc8cb477a04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtb2Rlcm4lMjBmYXVjZXRzfGVufDB8fHx8MTc2ODUwMzk5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1595515423005-b98c913a3cad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtb2Rlcm4lMjBmYXVjZXRzfGVufDB8fHx8MTc2ODUwMzk5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "modern faucets"
     },
     {
       "id": "plumb-tanks",
       "description": "A large plastic water storage tank.",
-      "imageUrl": "https://images.unsplash.com/photo-1646488993053-8c182b628696?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3YXRlciUyMHRhbmt8ZW58MHx8fHwxNzY4NDYwMjMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1562185412-99dacaad0c9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3YXRlciUyMHRhbmt8ZW58MHx8fHwxNzY4NDYwMjMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "water tank"
     },
     {
       "id": "plumb-accessories",
       "description": "Various bathroom accessories like towel rails and holders.",
-      "imageUrl": "https://images.unsplash.com/photo-1560185127-6d2eb05d7088?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxiYXRocm9vbSUyMGFjY2Vzc29yaWVzfGVufDB8fHx8MTc2ODUwMzk5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1625940119840-585d3495dc94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxiYXRocm9vbSUyMGFjY2Vzc29yaWVzfGVufDB8fHx8MTc2ODUwMzk5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "bathroom accessories"
     },
     {
       "id": "plumb-sinks",
       "description": "A selection of ceramic and stainless steel sinks.",
-      "imageUrl": "https://images.unsplash.com/photo-1701877956223-109533153f27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxraXRjaGVuJTIwc2lua3N8ZW58MHx8fHwxNzY4NTAzOTkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1610276099118-c929abaaa80a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxraXRjaGVuJTIwc2lua3N8ZW58MHx8fHwxNzY4NTAzOTkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "kitchen sinks"
     },
     {
       "id": "plumb-toilets",
       "description": "Modern, water-efficient toilets on display.",
-      "imageUrl": "https://images.unsplash.com/photo-1595515422949-def28c1b4fb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtb2Rlcm4lMjB0b2lsZXRzfGVufDB8fHx8MTc2ODM5ODQ3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtb2Rlcm4lMjB0b2lsZXRzfGVufDB8fHx8MTc2ODM5ODQ3NHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "modern toilets"
     }
   ]
