@@ -1,2 +1,2 @@
 
-A starter for Weriton Hardware Website.
+A starter website for Weriton Hardware Enterprises.
