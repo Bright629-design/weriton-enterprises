@@ -1,7 +1,6 @@
 # **App Name**: Weriton Hub
 
 ## Core Features:
-
 - Product Catalog: Display all available products organized by category. Products are searchable and can be filtered. Products include an image, short description, and price range (optional).
 - Quote Request: Enable customers (especially contractors and bulk buyers) to easily request quotes for specific products or projects.
 - WhatsApp Ordering: Integrate WhatsApp ordering to allow customers to place orders directly via WhatsApp.
@@ -11,7 +10,6 @@
 - Contractor Portal: Page specifically for contractors and bulk buyers, with information on special pricing, bulk ordering, and credit terms.
 
 ## Style Guidelines:
-
 - Main background color: White.
 - Primary color: Sunset orange (from the logo) to convey trust and reliability, reflecting a construction-inspired, trustworthy, professional image.
 - Accent color: Other colors from the logo can be used as accent colors to highlight CTAs and important information.
